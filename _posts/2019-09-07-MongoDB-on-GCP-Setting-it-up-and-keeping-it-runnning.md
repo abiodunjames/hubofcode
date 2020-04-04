@@ -18,6 +18,8 @@ For any given task, there are many tools you can use. But few are the *right* to
 
 If you’re in IT, you've probably heard the saying "Use the right tool for the job.” In architects' meetings, this sentence echoes from one corner to the other. In my career, I've heard it more times than I can count. And the wisdom behind it has stood the test of time.
 
+> Editorial note: I originally wrote this post on Bluemedora's blog. You can check out the [original here](https://bluemedora.com/mongodb-on-google-cloud-how-to-set-it-up-and-keep-it-healthy/), at their site.
+
 That's because when it comes to how data is stored, it's not one-tool-fits-all for every type of data.
 
 There's always the right database for every task. Today, data grows rapidly and often at a fast pace. It comes in all shapes and sizes. This gives rise to questions like

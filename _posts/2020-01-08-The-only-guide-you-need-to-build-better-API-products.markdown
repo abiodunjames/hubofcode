@@ -12,8 +12,6 @@ tags:
 - API design
 ---
 
-![](https://res.cloudinary.com/samueljames/image/upload/v1578483090/template_6.png)
-
 In the 19th century, [Le Corbusier](https://en.wikipedia.org/wiki/Le_Corbusier), a French architect, made public a visualization that changed how we live. 
 
 This plan opened the door to modern urban planning today. Around 1930,  public health became a significant concern; the poor working conditions of municipal workers in congested and polluted cities.
