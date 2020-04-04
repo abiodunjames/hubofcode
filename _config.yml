@@ -13,6 +13,7 @@ description: My personal blog on software engineering & machine learning
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
 permalink: pretty
+paginate: 15
 excerpt_separator: |2+
 
 
