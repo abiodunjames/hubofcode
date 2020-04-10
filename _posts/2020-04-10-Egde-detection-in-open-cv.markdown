@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Detection Techniques - Image Processing with OpenCV"
 date: '2020-04-08 10:26:35'
-categories: General
+categories: MachineLearning
 author: 'Samuel'
 comments: true
 tags:
