@@ -6,10 +6,9 @@ categories: General
 author: 'Samuel'
 comments: true
 tags:
-- API 
-- agileprocess
-- API products
-- API design
+- Computervision 
+- EdgeDetection
+- OpenCV
 ---
 
 In this post, we’ll look at common techniques used in detecting edges for image segmentation.
