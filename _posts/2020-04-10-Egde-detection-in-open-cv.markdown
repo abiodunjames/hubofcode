@@ -5,6 +5,7 @@ date: '2020-04-08 10:26:35'
 categories: MachineLearning
 author: 'Samuel'
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png"
 tags:
 - Computervision 
 - EdgeDetection
