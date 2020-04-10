@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Edge Detection Techniques - Image Processing with OpenCV"
-date: '2020-01-08 10:26:35'
+date: '2020-04-08 10:26:35'
 categories: General
 author: 'Samuel'
 comments: true

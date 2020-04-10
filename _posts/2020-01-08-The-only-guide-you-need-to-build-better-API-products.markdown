@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The only guide you need to build better API products"
-date: '2020-04-10 10:26:35'
+date: '2020-01-08 10:26:35'
 categories: General
 author: 'Samuel'
 comments: true
