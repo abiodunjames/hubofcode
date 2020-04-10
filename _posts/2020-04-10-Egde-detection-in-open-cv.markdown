@@ -11,6 +11,8 @@ tags:
 - OpenCV
 ---
 
+![](https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png)
+
 In this post, we’ll look at common techniques used in detecting edges for image segmentation.
 
 Object detection in computers is similar to how humans recognise objects. As humans, we can tell the image of a dog because of features that uniquely characterises a dog.  The tail, shape, nose, tongue, etc. all combined differentiate a picture of a dog from that of a cow. 
@@ -65,8 +67,7 @@ ax3.imshow(filtered_image_x)
 plt.show()
 ```
 
-<img src="https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png" style="zoom:33%;" />
-
+![](https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png)
 
 You don't need to memorize all the filter kernels.  You can use corresponding filters of your choice in the OpenCV library directly. 
 
@@ -174,5 +175,4 @@ ax2.imshow(filtered_image, cmap='gray')
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1586526474/Screenshot_2020-04-10_at_15.47.32.png)
 
-### 
 
