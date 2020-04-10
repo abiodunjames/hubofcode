@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "About"
+title: "About me"
 author: "Samuel"
 permalink: /about/
 ---
 
-#### Who am I?
+Hi, I'm Samuel, a Backend Engineer who loves building applications that remarkably change people's lives. I have a long history of transforming unproductive teams into productive teams that deliver on time. Besides development role, I enjoy teaching and helping developers grasp new technology and concepts. You will find me writing about code on major developers' websites and on my personal [blog](https://hubofco.de).
 
-A software developer and an amateur lifter. I started my development career in 2013 as a software engineer. 
-Fast forward to 2017; I led a team in a startup company to build robust learning management solutions.  In 2018, I relocated to Germany, where I now work as a backend developer.  In my free time, I write tutorials and help other developers grasp new technologies as fast as possible.
+My software development experience span various industries like FinTech, EduTech, and PropTech. I code in Python, PHP, JavaScript and of course provision resources with Terraform. I run primarily on Amazon Web Service (AWS) and sometimes on Google Cloud Platform (GCP).
 
-At my leisure time, I enjoy watching superhero movies and playing ping pong.
+At the moment, I work at [Architrave GMBH](https://www.architrave.de/) where we use machine learning to bring order to chaotic jumble of documents in real estate.
+
+Other Skills: MySQL, Redis, MongoDB, Docker, PyTorch, MachineLearning, ComputerVision
    
 If you want to get in touch, shoot me a  <a href ="mailto:samuel4abiodun@gmail.com">mail</a>
