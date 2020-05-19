@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "Unit Test a REST API? Everything You Need to Know"
-date: '2020-02-23 10:26:35'
-categories: JavaScript
-author: 'Samuel'
-canonical_url: https://www.testim.io/blog/unit-test-rest-api/
-comments: true
-description: "Do you have questions about how to unit test your REST API? Read this to learn 3 types of tests you should have in your test suite and how to write them."
+title: Unit Test a REST API? Everything You Need to Know
+date: 2020-02-23 10:26:35 Z
+categories:
+- JavaScript
 tags:
 - Test pyramid
 - Unit tests
 - Integration tests
+layout: post
+author: Samuel
+canonical_url: https://www.testim.io/blog/unit-test-rest-api/
+comments: true
+description: Do you have questions about how to unit test your REST API? Read this
+  to learn 3 types of tests you should have in your test suite and how to write them.
 ---
 
 My little self stood in front of my computer some years ago, churning out code that today would make me scream like a baby deprived of food. The motivated me had made some changes to a 1,000-line app the previous night, and now the code just wouldn't run. If there was anything I remember, it was asking myself, "How do people build apps that are easy to change?" This was a question I solved by myself a few months later. And the answer is nothing other than rigorous and automated tests done the right way.

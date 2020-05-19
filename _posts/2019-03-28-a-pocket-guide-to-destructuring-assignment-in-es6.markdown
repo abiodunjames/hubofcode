@@ -1,14 +1,15 @@
 ---
-layout: post
 title: A Pocket Guide to Destructuring Assignment in ES6
-date: '2019-03-28 20:26:35'
-author: 'Samuel'
-categories: JavaScript
-comments: true
+date: 2019-03-28 20:26:35 Z
+categories:
+- JavaScript
 tags:
 - javascript
 - es6
 - destructuring
+layout: post
+author: Samuel
+comments: true
 ---
 
 Today, we will be exploring destructuring assignment — one of the ES6 cool features. It provides a clean way of extracting items of an array or object or anything iterable.

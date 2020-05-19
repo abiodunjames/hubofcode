@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "MongoDB on Google Cloud: How to Set It Up and Keep It Healthy"
-date: '2019-09-07 10:26:35'
-author: 'Samuel'
-categories: Database
-comments: true
+title: 'MongoDB on Google Cloud: How to Set It Up and Keep It Healthy'
+date: 2019-09-07 10:26:35 Z
+categories:
+- Database
 tags:
 - MongoDB
 - MongoDB Monitoring
 - Database
-- MongoDB
 - Google Cloud Platform
+layout: post
+author: Samuel
+comments: true
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1586002940/image-blog-big-data-on-demand-with-mongodb.jpg)

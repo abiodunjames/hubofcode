@@ -1,16 +1,16 @@
 ---
-layout: post
 title: All the books I read in January
-author: 'Samuel'
-categories: General
-comments: true
-date: '2018-02-07 09:31:49'
+date: 2018-02-07 09:31:49 Z
+categories:
+- General
 tags:
 - books
 - node-js
 - php
+layout: post
+author: Samuel
+comments: true
 ---
-
 
 A few days ago, I came across a link to a [post](https://medium.com/the-mission/how-to-teach-yourself-to-read-an-entire-book-in-a-single-day-485e35e28126) by [Thomas Oppong](https://medium.com/@alltopstartups) where he exposes techniques he employs to read an entire book in a single day. I jumped at it like a hungry lion to uncover secrets that will make me read more and maximize my time.
 

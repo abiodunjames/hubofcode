@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "The only guide you need to build better API products"
-date: '2020-01-08 10:26:35'
-categories: General
-author: 'Samuel'
-comments: true
+title: The only guide you need to build better API products
+date: 2020-01-08 10:26:35 Z
+categories:
+- General
 tags:
-- API 
+- API
 - agileprocess
 - API products
 - API design
+layout: post
+author: Samuel
+comments: true
 ---
 
 In the 19th century, [Le Corbusier](https://en.wikipedia.org/wiki/Le_Corbusier), a French architect, made public a visualization that changed how we live. 

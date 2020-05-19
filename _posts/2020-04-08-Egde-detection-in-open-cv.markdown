@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "Edge Detection Techniques - Image Processing with OpenCV"
-date: '2020-04-08 10:26:35'
-categories: MachineLearning
-author: 'Samuel'
-comments: true
-description: In this post, we’ll look at common techniques used in detecting edges for image segmentation.
-image: "https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png"
+title: Edge Detection Techniques - Image Processing with OpenCV
+date: 2020-04-08 10:26:35 Z
+categories:
+- MachineLearning
 tags:
-- Computervision 
+- Computervision
 - EdgeDetection
 - OpenCV
+layout: post
+author: Samuel
+comments: true
+description: In this post, we’ll look at common techniques used in detecting edges
+  for image segmentation.
+image: https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1586520703/Screenshot_2020-04-10_at_14.11.16.png)

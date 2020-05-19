@@ -1,18 +1,18 @@
 ---
-layout: post
-title: "What Is Serverless Architecture and When Should You Use It?"
-date: '2019-12-20 10:26:35'
-author: 'Samuel'
-categories: Serverless
-comments: true
+title: What Is Serverless Architecture and When Should You Use It?
+date: 2019-12-20 10:26:35 Z
+categories:
+- Serverless
 tags:
 - Serverless Architecture
 - Use cases of serverless
 - AWS Lambda
 - Google Cloud Functions
 - PaaS vs FaaS
+layout: post
+author: Samuel
+comments: true
 ---
-
 
 Cloud computing is constantly evolving, from bare-metal to container technologies. The latest trend in this process is the serverless (Function as a Service, or FaaS) computing model. According to [Techbeacon](https://techbeacon.com/enterprise-it/state-serverless-6-trends-watch), serverless has an annual growth rate of 75%, making it the fastest growing cloud service model. So, serverless architecture isn't a mere buzzword. More companies than ever are adopting it.
 

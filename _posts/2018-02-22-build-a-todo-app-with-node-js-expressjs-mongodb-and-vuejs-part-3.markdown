@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Build a Todo App with Node.Js, ExpressJs, MongoDB and VueJs - Part 3
-author: 'Samuel'
-category: Node.js
-comments: true
-date: '2018-02-22 10:07:00'
+date: 2018-02-22 10:07:00 Z
+categories:
+- Node.js
 tags:
 - expressjs
 - mongodb
@@ -12,6 +10,9 @@ tags:
 - vuejs
 - docker
 - docker-compose
+layout: post
+author: Samuel
+comments: true
 ---
 
 If you have made it to [Part 1](https://samuelabiodun.com/build-a-todo-app-with-node-js-expressjs-mongodb-and-vuejs-part-1/) and [Part 2](https://samuelabiodun.com/build-a-todo-app-with-node-js-expressjs-mongodb-and-vuejs-part-2/) of this tutorial, you deserve some accolades. And If you have not, you need to check [1](https://samuelabiodun.com/build-a-todo-app-with-node-js-expressjs-mongodb-and-vuejs-part-1/) and [2](https://samuelabiodun.com/build-a-todo-app-with-node-js-expressjs-mongodb-and-vuejs-part-2/) out. 

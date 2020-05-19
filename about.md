@@ -1,8 +1,8 @@
 ---
+title: About me
+permalink: "/about/"
 layout: post
-title: "About me"
-author: "Samuel"
-permalink: /about/
+author: Samuel
 ---
 
 Hi, I'm Samuel, a Backend Engineer who loves building applications that remarkably change people's lives. I have a long history of transforming unproductive teams into productive teams that deliver on time. Besides development role, I enjoy teaching and helping developers grasp new technology and concepts. You will find me writing about code on major developers' websites and on my personal [blog](https://hubofco.de).

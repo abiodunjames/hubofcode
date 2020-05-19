@@ -1,12 +1,12 @@
 ---
-layout: post
 title: 'Booking.com & iamtheCode hackathon: Nigeria Edition'
-author: 'Samuel'
-categories: Hackathon
+date: 2017-11-22 15:02:06 Z
+categories:
+- Hackathon
+layout: post
+author: Samuel
 comments: true
-date: '2017-11-22 15:02:06'
 ---
-
 
 [Booking.com](http://Booking.com) partnered with [iamtheCode ](http://www.iamthecode.org/)to organize a [2-day hackathon](https://workingatbooking.com/event/hackathon-nigeria/) in Nigeria.
 

@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Why Docker? Creating a multi-container application with docker
-date: '2018-05-02 22:57:44'
-author: 'Samuel'
-categories: Docker
-comments: true
+date: 2018-05-02 22:57:44 Z
+categories:
+- Docker
 tags:
 - docker
 - laravel
+layout: post
+author: Samuel
+comments: true
 ---
 
 ![Multi Container Application](https://res.cloudinary.com/samueljames/image/upload/v1525300995/multi-container_application.jpg)

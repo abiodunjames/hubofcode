@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Vue-native infinite scroll
-author: 'Samuel'
+date: 2018-10-28 15:07:12 Z
+layout: post
+author: Samuel
 comments: true
-date: '2018-10-28 15:07:12'
 ---
 
 This post is aimed to show you how to implement infinite scrolling in [Vue-native](https://vue-native.io/). Without doubts, infinite scrolling is your best bet when it comes to paginating large data set, especially in mobile apps.
