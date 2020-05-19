@@ -3,7 +3,7 @@ title: Projects
 date: 2020-05-19 18:07:00 Z
 ---
 
-## Tweet Spam Detection
+## Tweet Spam Detector
 
 The task of engaging customers across the globe for a multinational business can be enormous for a group of individuals to manage alone. This complexity has seen many companies turned to automated ways of engaging customers through the use of bots.
  
