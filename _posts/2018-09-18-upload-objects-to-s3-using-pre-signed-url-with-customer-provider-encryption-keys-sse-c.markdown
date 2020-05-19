@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Upload objects to s3 using pre-signed URL with customer-provided keys (SSE-C)
-date: '2018-09-18 21:41:00'
-author: 'Samuel'
-categories: PHP
-comments: true
+date: 2018-09-18 21:41:00 Z
+categories:
+- PHP
 tags:
 - aws
 - s3
+layout: post
+author: Samuel
+comments: true
 ---
 
 With S3 pre-signed URLs, you can create short-lived URLs to upload objects to AWS S3.  More often than not business requirements demand that objects are encrypted and sometimes with keys provided by the customer. 

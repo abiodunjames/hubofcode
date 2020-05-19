@@ -1,19 +1,18 @@
 ---
-layout: post
-title: "Docker Build: A Beginner’s Guide to Building Docker Images"
-date: '2019-07-28 10:26:35'
-categories: Docker
-author: 'Samuel'
-comments: true
+title: 'Docker Build: A Beginner’s Guide to Building Docker Images'
+date: 2019-07-28 10:26:35 Z
+categories:
+- Docker
 tags:
 - Docker
 - containers
 - image
 - docker build
 - dockerfile
+layout: post
+author: Samuel
+comments: true
 ---
-
-
 
 Docker has changed the way we build, package, and deploy applications. But this concept of packaging apps in containers isn't new—it was in existence long before Docker came.
 

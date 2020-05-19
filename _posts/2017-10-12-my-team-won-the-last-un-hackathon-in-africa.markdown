@@ -1,17 +1,17 @@
 ---
-layout: post
 title: My team won the UN hackathon in Africa
-author: "Samuel"
-categories: Hackathon
-comments: true
-date: '2017-10-12 22:57:09'
+date: 2017-10-12 22:57:09 Z
+categories:
+- Hackathon
 tags:
 - africa
 - hackathon
 - lagos
 - un
+layout: post
+author: Samuel
+comments: true
 ---
-
 
 My team won the united nation Hackathon that took place in 9 regions of the world in 2017.
 

@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Awesome Curated List of Clean Code Resources- Github Repository
-author: 'Samuel'
-categories: General
+date: 2017-12-14 10:42:23 Z
+categories:
+- General
+layout: post
+author: Samuel
 comments: true
-date: '2017-12-14 10:42:23'
 ---
-
 
 Last week, I published an [article](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10) that shows few ways you can keep your code clean on [Code burst](https://codeburst.io). The article was shared multiple times on various social media. If you have not seen it yet,[ read it here](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10).
 

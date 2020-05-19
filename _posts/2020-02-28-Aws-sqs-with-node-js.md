@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Using AWS Simple Queue Service From Your Node.Js Application"
-date: '2020-02-28 10:26:35'
-author: 'Samuel'
-comments: true
-categories: General
-description: "Learn how to integrate and optimize costs with AWS Simple Queue Service (SQS)"
+title: Using AWS Simple Queue Service From Your Node.Js Application
+date: 2020-02-28 10:26:35 Z
+categories:
+- General
 tags:
 - Message Queues
 - AWS SQS
 - Serverless
+layout: post
+author: Samuel
+comments: true
+description: Learn how to integrate and optimize costs with AWS Simple Queue Service
+  (SQS)
 ---
 
 In the [previous post](https://hubofco.de/A-gentle-quide-to-message-queues/), we talked in detail about queue systems and why they're essential in scaling applications.

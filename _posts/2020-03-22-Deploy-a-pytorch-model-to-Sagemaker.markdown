@@ -1,18 +1,20 @@
 ---
 title: How to Deploy a Pytorch Model on SageMaker
-layout: post
-date: '2020-03-22 10:26:35'
-author: 'Samuel'
-categories: MachineLearning
-canonical_url: https://medium.com/@samuelabiodun/how-to-deploy-a-pytorch-model-on-sagemaker-aa9a38a277b6
-comments: true
-description: You'll learn how to deploy a Pytorch model trained on another environment to the AWS SageMaker model server.
+date: 2020-03-22 10:26:35 Z
+categories:
+- MachineLearning
 tags:
 - Pytorch
 - Deeplearning
 - PytorchModel
 - AWS
 - SageMaker
+layout: post
+author: Samuel
+canonical_url: https://medium.com/@samuelabiodun/how-to-deploy-a-pytorch-model-on-sagemaker-aa9a38a277b6
+comments: true
+description: You'll learn how to deploy a Pytorch model trained on another environment
+  to the AWS SageMaker model server.
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584786321/sagemaker_2.png)

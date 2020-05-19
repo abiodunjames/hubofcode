@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Getting Started Quickly With Symfony Logging"
-date: '2019-08-23 10:26:35'
-categories: PHP
-author: 'Samuel'
-comments: true
+title: Getting Started Quickly With Symfony Logging
+date: 2019-08-23 10:26:35 Z
+categories:
+- PHP
 tags:
 - Symfony
 - Logging
 - PHP
 - Monolog
 - Log rotation
+layout: post
+author: Samuel
+comments: true
 ---
 
 > Editorial note: I originally wrote this post on Scalyr's blog. You can check out the [original here](https://www.scalyr.com/blog/getting-started-quickly-symfony-logging/), at their site.

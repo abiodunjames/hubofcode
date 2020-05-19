@@ -1,17 +1,17 @@
 ---
-layout: post
 title: Why Serverless Architecture?
-date: '2019-06-15 10:26:35'
-author: 'Samuel'
-categories: Serverless
-comments: true
+date: 2019-06-15 10:26:35 Z
+categories:
+- Serverless
 tags:
 - serverless
 - aws
 - lambda
 - Function-as-a-service
+layout: post
+author: Samuel
+comments: true
 ---
-
 
 > *Editorial note: I originally wrote this post on ACloud Guru's blog. You can check out the [original here](<https://read.acloud.guru/why-serverless-architecture-2b2610fb23fd>), at their site.*
 

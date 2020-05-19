@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "A gentle guide to message queues"
-date: '2020-01-30 10:26:35'
-categories: General
-author: 'Samuel'
-comments: true
-description: "A message queue is temporary message storage that facilitates the exchange of data between a producer and a consumer in an asynchronous manner"
+title: A gentle guide to message queues
+date: 2020-01-30 10:26:35 Z
+categories:
+- General
 tags:
 - Message Queues
 - AWS SQS
 - Serverless
+layout: post
+author: Samuel
+comments: true
+description: A message queue is temporary message storage that facilitates the exchange
+  of data between a producer and a consumer in an asynchronous manner
 ---
 
 The word "queue" is used everywhere. It has all kinds of meanings in the real world and even in the world of software development.

@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Rapid code prototyping in IDE with Quokka.js"
-date: '2020-01-05 10:26:35'
-categories: Javascript
-author: 'Samuel'
-comments: true
+title: Rapid code prototyping in IDE with Quokka.js
+date: 2020-01-05 10:26:35 Z
+categories:
+- Javascript
 tags:
 - Javascript
 - IDE
 - Quokka.js
 - Development Environment
+layout: post
+author: Samuel
+comments: true
 ---
 
 Today I want to talk about one of my favorite plugins for prototyping Javascript in visual studio code: [Quokka.js](https://quokkajs.com/).

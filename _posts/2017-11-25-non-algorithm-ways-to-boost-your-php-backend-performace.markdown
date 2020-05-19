@@ -1,16 +1,16 @@
 ---
-layout: post
 title: 3 ways to boost your PHP backend performance
-author: 'Samuel'
-categories: PHP
-comments: true
-date: '2017-11-25 09:12:59'
+date: 2017-11-25 09:12:59 Z
+categories:
+- PHP
 tags:
 - backend
 - performance
 - php
+layout: post
+author: Samuel
+comments: true
 ---
-
 
 Performance is something I have been intrested in for a while now. I have not only been concerned about writing code that works but also code that performs considerably at the face of large input or traffic.
 

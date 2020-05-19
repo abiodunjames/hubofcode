@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Build a Todo App with Node.Js, ExpressJs, MongoDB and VueJs - Part 1
-author: 'Samuel'
-categories: Node.js
-comments: true
-date: '2018-01-20 16:07:00'
+date: 2018-01-20 16:07:00 Z
+categories:
+- Node.js
 tags:
 - expressjs
 - mongodb
 - node-js
 - vuejs
+layout: post
+author: Samuel
+comments: true
 ---
 
 ![Hint: This is what the final result would look like.](https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif)

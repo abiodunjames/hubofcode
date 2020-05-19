@@ -1,17 +1,17 @@
 ---
-layout: post
 title: How We Built an Intrusion Detection System on AWS using Open Source Tools
-date: '2017-11-06 07:22:42'
-categories: Security
-comments: true
-author: 'Samuel'
+date: 2017-11-06 07:22:42 Z
+categories:
+- Security
 tags:
 - aws
 - ids
 - nsm
 - security
+layout: post
+comments: true
+author: Samuel
 ---
-
 
 It’s roughly a year now that we built an intrusion detection system on AWS cloud infrastructure that provides security intelligence across some selected instances using open source technologies.
 

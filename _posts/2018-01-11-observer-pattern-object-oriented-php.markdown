@@ -1,14 +1,15 @@
 ---
-layout: post
 title: 'Observer Pattern: Object Oriented PHP'
-author: 'Samuel'
-categories: PHP
-comments: true
-date: '2018-01-11 21:38:52'
+date: 2018-01-11 21:38:52 Z
+categories:
+- PHP
 tags:
 - observer-pattern
 - php
 - oop
+layout: post
+author: Samuel
+comments: true
 ---
 
 ![Observer Pattern](https://res.cloudinary.com/samueljames/image/upload/v1524270397/observer-pattern_beqcbs.jpg)

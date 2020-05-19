@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "Learn Serverless on GCP by Building a Simple Calendar App API"
-date: '2019-10-08 10:26:35'
-author: 'Samuel'
-categories: Serverless
-
-comments: true
+title: Learn Serverless on GCP by Building a Simple Calendar App API
+date: 2019-10-08 10:26:35 Z
+categories:
+- Serverless
 tags:
-- Serverless 
+- Serverless
 - Node.js
 - Cloud Function
 - Google Cloud Function
+layout: post
+author: Samuel
+comments: true
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1576836292/1_wkyCRY8pMNSnbh2Hm_Lf9A.png)

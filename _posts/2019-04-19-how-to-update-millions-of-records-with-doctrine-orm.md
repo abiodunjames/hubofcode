@@ -1,16 +1,16 @@
 ---
-layout: post
 title: Iterating large data in doctrine 2
-date: '2019-04-19 10:26:35'
-author: 'Samuel'
-categories: PHP
-comments: true
+date: 2019-04-19 10:26:35 Z
+categories:
+- PHP
 tags:
 - php
 - doctrine orm
 - mysql
+layout: post
+author: Samuel
+comments: true
 ---
-
 
 A few days ago, I wanted to update millions of records in a  MySQL database using Doctrine 2. I did a couple of searches and landed on  this doctrine [documentation](<https://www.doctrine-project.org/projects/doctrine-orm/en/2.6/reference/batch-processing.html>).  It suggests combining  query iteration with batching strategy to achieve this. 
 

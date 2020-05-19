@@ -1,20 +1,21 @@
 ---
 title: Building an Image Classifier With Pytorch
-layout: post
-date: '2020-03-14 10:26:35'
-author: 'Samuel'
-categories: MachineLearning
-comments: true
-description: In this post, you'll learn how to train an image classifier using transferred learning with Pytorch on Google Colab. We'll use a dataset provided by [CalTech]
-canonical_url: 'https://dev.to/abiodunjames/building-an-image-classifier-using-pytorch-46dk'
+date: 2020-03-14 10:26:35 Z
+categories:
+- MachineLearning
 tags:
 - Pytorch
 - Deeplearning
 - Computervision
 - machinelearning
 - GoogleColab
+layout: post
+author: Samuel
+comments: true
+description: In this post, you'll learn how to train an image classifier using transferred
+  learning with Pytorch on Google Colab. We'll use a dataset provided by [CalTech]
+canonical_url: https://dev.to/abiodunjames/building-an-image-classifier-using-pytorch-46dk
 ---
-
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584088420/template.png)
 
