@@ -14,4 +14,4 @@ For businesses that automate their interactions with their customers, they must 
 
 In this project, I built an LSTM model that is capable of analyzing the content of a tweet and categorize them into labels with 97% accuracy. 
 
-See project paper.
+See [project paper](/uploads/Machine%20Learning%20Approach%20To%20Tweet%20Spam%20Detection.pdf).
