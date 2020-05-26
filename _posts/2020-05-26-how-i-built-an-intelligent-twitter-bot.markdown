@@ -31,7 +31,7 @@ I thought it would be cool to have a bot that tracks hashtags related to machine
 
 Days after the bot was deployed, I started noticing some forms of abuse and spam like this:
 
-{% twitter https://twitter.com/peachrestores/status/1263203107263086592 %}
+![(https://res.cloudinary.com/samueljames/image/upload/v1590478162/Screenshot_2020-05-26_at_09.28.26.png)
 
 People would write tweets unrelated to machine learning and hashtag “machinelearning,” and the bot would retweet it.
 
