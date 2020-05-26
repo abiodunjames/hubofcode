@@ -31,9 +31,7 @@ I thought it would be cool to have a bot that tracks hashtags related to machine
 
 Days after the bot was deployed, I started noticing some forms of abuse and spam like this:
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;schema=twitter&amp;url=https%3A//twitter.com/peachrestores/status/1263203107263086592&amp;image=https%3A//i.embed.ly/1/image%3Furl%3Dhttps%253A%252F%252Fpbs.twimg.com%252Fext_tw_video_thumb%252F1263202866749210625%252Fpu%252Fimg%252F_5Nyp3Lo2b4IOzuJ.jpg%26key%3Da19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0" height="751" width="680" title="peach restores on Twitter" class="s t u ei ai" scrolling="auto" style="box-sizing: inherit; position: absolute; top: 0px; left: 0px; width: 680px; height: 751px;"></iframe>
-
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/peachrestores/status/1263203107263086592"></a></blockquote>
 
 
 People would write tweets unrelated to machine learning and hashtag “machinelearning,” and the bot would retweet it.
