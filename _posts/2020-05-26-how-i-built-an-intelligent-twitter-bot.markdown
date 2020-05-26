@@ -33,7 +33,6 @@ Days after the bot was deployed, I started noticing some forms of abuse and spam
 
 {% twitter https://twitter.com/peachrestores/status/1263203107263086592 %}
 
-
 People would write tweets unrelated to machine learning and hashtag “machinelearning,” and the bot would retweet it.
 
 When we think of spam, it’s easy to see them as unsolicited emails one receives from an unknown person.
