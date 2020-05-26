@@ -50,6 +50,7 @@ plugins:
 - jekyll-paginate
 - jemoji
 - jekyll-remote-theme
+- jekyll-twitter-plugin
 include:
 - _pages
 exclude:
