@@ -15,6 +15,7 @@ description: The volume of information going through Twitter per day makes it on
   of the best platforms to get information on any subject of interest. In this post,
   I’ll walk you through how I built a twitter bot with a brain — powered by machine
   learning
+author: samuel
 ---
 
 Twitter users tweet [500 million tweets](https://www.omnicoreagency.com/twitter-statistics/) per day. The volume of information going through Twitter per day makes it one of the best platforms to get information on any subject of interest. In this post, I’ll walk you through how I built a twitter bot with a brain — powered by machine learning.
