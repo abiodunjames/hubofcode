@@ -1,14 +1,15 @@
 ---
 title: Set and Map in JavaScript
-date: 2020-01-10 22:57:09 Z
+date: 2020-01-10 22:57:00 Z
+published: false
 categories:
 - Node.js
 tags:
 - JavaScript
 - Set & Map
-layout: post
 author: Samuel
 comments: true
+layout: post
 ---
 
 `Map` and `Set` are some of my favorites data structure in Javascript.  In this post, we'll explore what they are and how to use them in your daily life.

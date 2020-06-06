@@ -19,7 +19,6 @@ author: samuel
 image: https://miro.medium.com/max/1400/1*9s1wWE8H1jSfn-S6n2C49w.png
 ---
 
-![Twitterbot with a brain](https://miro.medium.com/max/1400/1*9s1wWE8H1jSfn-S6n2C49w.png)
 
 Twitter users tweet [500 million tweets](https://www.omnicoreagency.com/twitter-statistics/) per day. The volume of information going through Twitter per day makes it one of the best platforms to get information on any subject of interest. In this post, I’ll walk you through how I built a twitter bot with a brain — powered by machine learning.
 
@@ -31,7 +30,7 @@ I thought it would be cool to have a bot that tracks hashtags related to machine
 
 Days after the bot was deployed, I started noticing some forms of abuse and spam like this:
 
-{% twitter https://twitter.com/peachrestores/status/1263203107263086592 %}
+![](https://res.cloudinary.com/samueljames/image/upload/v1590478162/Screenshot_2020-05-26_at_09.28.26.png)
 
 People would write tweets unrelated to machine learning and hashtag “machinelearning,” and the bot would retweet it.
 
