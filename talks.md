@@ -9,4 +9,4 @@ layout: post
 
 [AWS Community Day - Sept 9th, 2019 Hamburg](https://www.slideshare.net/SamuelJames16/aws-community-day-keynote)
 
-[Understanding DevOPs](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132)
+[Understanding DevOps](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132)
