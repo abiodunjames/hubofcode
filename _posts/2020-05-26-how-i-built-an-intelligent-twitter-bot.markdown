@@ -36,7 +36,7 @@ People would write tweets unrelated to machine learning and hashtag “machinele
 
 When we think of spam, it’s easy to see them as unsolicited emails one receives from an unknown person.
 
-As odd as it may seem, spam is not limited to email alone these days. Spammers now target everything you can think of. From your inbox to comments on social media posts, you’ll will find spam lurking around.
+As odd as it may seem, spam is not limited to emails alone these days. Spammers now target everything you can think of. From your inbox to comments on social media posts, you’ll will find spam lurking around.
 
 > Personally, I think spam is destructive to communication and undermines the goal of social media.
 
