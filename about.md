@@ -1,16 +1,15 @@
 ---
 title: About me
 permalink: "/about/"
-layout: post
 author: Samuel
+layout: post
 ---
 
-Hi, I'm Samuel, a Backend Engineer who loves building applications that remarkably change people's lives. I have a long history of transforming unproductive teams into productive teams that deliver on time. Besides development role, I enjoy teaching and helping developers grasp new technology and concepts. You will find me writing about code on major developers' websites and on my personal [blog](https://hubofco.de).
+Hi, 
+I'm [Samuel James](https://www.linkedin.com/in/abiodunjames/). I love writing code and teaching people helping developers grasp new concepts. I have been working professionally in the tech industry since 2013. I’ve held multiple software engineering positions from a software engineer position to a team lead position at startups.
 
-My software development experience spans various industries like FinTech, EduTech, and PropTech. I code in Python, PHP, JavaScript, and of course, provision resources with Terraform. I run primarily on Amazon Web Service (AWS) and sometimes on Google Cloud Platform (GCP).
+I write a lot about code and technology in general. You’ll find my posts on major developers community platforms and blog pages of tech companies like [Stackify](https://stackify.com/aws-lambda-with-node-js-a-complete-getting-started-guide/), [Scalyr](https://www.scalyr.com), [Blue Medora](https://bluemedora.com/), [Testim](http://testim.io/), etc.
 
-At the moment, I work at [Architrave GMBH](https://www.architrave.de/) where we use machine learning to bring order to chaotic jumble of documents in real estate.
-
-Other Skills: MySQL, Redis, MongoDB, Docker, PyTorch, MachineLearning, ComputerVision
+My software development experience spans various industries like FinTech, EduTech, and PropTech. At the moment, I work at [Architrave GMBH](https://www.architrave.de/) where we use machine learning to bring order to chaotic jumble of documents in real estate.
    
 If you want to get in touch, shoot me a  <a href ="mailto:samuel4abiodun@gmail.com">mail</a>
