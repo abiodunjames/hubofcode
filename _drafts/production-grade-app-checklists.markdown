@@ -1,5 +1,14 @@
 ---
 title: Production-grade App Checklists
+categories:
+- SoftwareEngineering
+tags:
+- production
+- software
+- engineering
+layout: post
+author: Samuel
+comments: true
 date: 2020-08-01 15:49:00 Z
 ---
 
@@ -12,3 +21,123 @@ Change is constant! I should expect that my users will grow, a node will go down
 A production-ready app means different things to different people. For some, it's an app that runs smoothly and turns in cash, and for some, it's no more than an app that satisfies project requirements or running in an environment tagged "production". The scary thing is they are right! What is production-ready to A may not be for B. That's why the following checklists are opinionated.
 
 To assess if an app is ready for production, one must understand production-readiness criteria –– and that's the very reason I created this checklist to guide you. Hopefully, it sparks some new ideas in you.
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> Check List</p>
+</td>
+<td>
+<p>Description</p>
+</td>
+</tr>
+<tr>
+<td>
+Configuration
+</td>
+<td>
+<ul>
+<li>TLS Certs</li>
+<li>Domain name (DNS settings)</li>
+<li>Service discovery (If necessary)</li>
+<li>Port settings If necessary</li>
+<li>Security&nbsp; Groups</li>
+<li>Firewalls</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Provisioning</p>
+</td>
+<td>
+<ul>
+<li>Servers</li>
+<li>Load balancer</li>
+<li>S3 Bucket</li>
+<li>IAM permissions</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+Deployment</p>
+</td>
+<td>
+<ul>
+<li>Roll back strategy</li>
+<li>Infrastructure updates strategy ( If self-managed)</li>
+<li>Canary deployments</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>High Availability &amp; Scalability</p>
+</td>
+<td>
+<ul>
+<li>Scale up strategy</li>
+<li>Service-level Agreement (SLA)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Security</p>
+</td>
+<td>
+<ul>
+<li>Data encryption</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Metrics</p>
+</td>
+<td>
+<ul>
+<li>Business metrics</li>
+<li>Application metrics</li>
+<li>Server metrics</li>
+<li>Alerting strategy</li>
+<li>Events &amp; Observability</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Logs</p>
+</td>
+<td>
+<p>Logs centralisation strategy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Backups</p>
+</td>
+<td>
+<ul>
+<li>Database backup</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Documentation</p>
+</td>
+<td>
+<ul>
+<li>Architecture</li>
+<li>Practices</li>
+<li>Incidents handling strategy</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
