@@ -1,5 +1,5 @@
 ---
-title: Production-grade App Checklists
+title: App Launch Checklists
 categories:
 - SoftwareEngineering
 tags:
@@ -22,16 +22,18 @@ A production-ready app means different things to different people. For some, it'
 
 To assess if an app is ready for production, one must understand production-readiness criteria –– and that's the very reason I created this checklist to guide you. Hopefully, it sparks some new ideas in you.
 
-<table>
-<tbody>
+<table class="table table-bordered">
+<thead>
 <tr>
 <td>
-<p> Check List</p>
+<strong> Check List</strong>
 </td>
 <td>
-<p>Description</p>
+<strong>Description</strong>
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>
 Configuration
@@ -63,7 +65,7 @@ Configuration
 </tr>
 <tr>
 <td>
-Deployment</p>
+Deployment
 </td>
 <td>
 <ul>
@@ -122,7 +124,7 @@ Deployment</p>
 </td>
 <td>
 <ul>
-<li>Database backup</li>
+<li>Data backups</li>
 </ul>
 </td>
 </tr>
@@ -134,7 +136,7 @@ Deployment</p>
 <ul>
 <li>Architecture</li>
 <li>Practices</li>
-<li>Incidents handling strategy</li>
+<li>Incidents handling </li>
 </ul>
 </td>
 </tr>
