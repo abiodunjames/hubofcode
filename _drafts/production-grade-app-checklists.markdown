@@ -1,5 +1,6 @@
 ---
 title: Production-grade App Checklists
+date: 2020-08-01 15:49:00 Z
 categories:
 - SoftwareEngineering
 tags:
@@ -9,7 +10,6 @@ tags:
 layout: post
 author: Samuel
 comments: true
-date: 2020-08-01 15:49:00 Z
 ---
 
 As a self-taught, I struggled with many things at the beginning of my career. I remembered asking why my changes always break my code. "What do other engineers do that prevent them from introducing breaking changes when adapting a software?", I asked. Later I figured I needed to write tests and write them well.
