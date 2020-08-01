@@ -1,5 +1,4 @@
 ---
-title: App Launch Checklists
 title: Production-grade App Checklists
 date: 2020-08-01 15:49:00 Z
 categories:
