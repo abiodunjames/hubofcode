@@ -166,4 +166,4 @@ The tweet datasets I used for this task were in tens of thousands; there were tw
 
 This is my first attempt at combating spam on social media, and I do hope to take this work further in the future.
 
-> Every month, I send out a newsletter containing lots of exciting stuff on data science, software engineering, and machine learning. Expect quick tips, links to interesting tutorials, opinions, and libraries. [Subscribe here](https://tinyletter.com/hubofml)
+> Every month, I send out a newsletter containing lots of exciting stuff on data science, software engineering, and machine learning. Expect quick tips, links to interesting tutorials, opinions, and libraries. [Subscribe here](https://hubofml.substack.com/subscribe)
