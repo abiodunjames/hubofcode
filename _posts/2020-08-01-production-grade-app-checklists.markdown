@@ -23,7 +23,7 @@ Without dwelling on post-production activities, I want to ask you, What does a p
 
 A production-ready app means different things to different people. For some, it's an app that runs smoothly and turns in cash, and for some, it's no more than an app that satisfies project requirements or running in an environment tagged "production". The scary thing is they are right! What is production-ready to A may not be for B. That's why the following checklists are opinionated.
 
-To assess if an app is ready for production, one must understand production-readiness criteria –– and that's the very reason I created this checklist to guide you. Hopefully, it sparks some new ideas in you.
+To assess if an app is ready for production, one must understand production-readiness criteria – and that's the very reason I created this checklist to guide you. Hopefully, it sparks some new ideas in you.
 
 <table class="table table-bordered">
 <thead>
