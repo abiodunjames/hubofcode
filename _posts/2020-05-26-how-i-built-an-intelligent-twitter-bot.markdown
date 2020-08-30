@@ -19,7 +19,6 @@ author: samuel
 image: https://miro.medium.com/max/1400/1*9s1wWE8H1jSfn-S6n2C49w.png
 ---
 
-
 Twitter users tweet [500 million tweets](https://www.omnicoreagency.com/twitter-statistics/) per day. The volume of information going through Twitter per day makes it one of the best platforms to get information on any subject of interest. In this post, I’ll walk you through how I built a twitter bot with a brain — powered by machine learning.
 
 According to [a report](https://www.cnet.com/news/new-study-says-almost-15-percent-of-twitter-accounts-are-bots/), there are 48 million bots on twitter — and [hubofml](https://twitter.com/hubofml) happened to be one of those bots. [Hubofml](https://twitter.com/hubofml) started as a simple bot written in Node.Js (on one Sunday evening) running on a free Heroku dyno that tracks specific hashtags like *machinelearning*, *computervision*, and retweet tweets containing those hashtags.
