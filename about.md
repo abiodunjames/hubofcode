@@ -18,18 +18,18 @@ If you want to get in touch, shoot me a  <a href ="mailto:samuel4abiodun@gmail.c
 
 ---
 
-**January 2013** Joined Access Solution LTD
+**June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled Understanding DevOps
 
-**April 2015** Joined [Venture Garden Group](http://venturegardengroup.com/)
-
-**February 2017** -  Led a team at Multistream Technologies
-
-**March 2018** - Lead Developer at \[Alphahill\]([https://alphahill.com/](https://alphahill.com/))
-
-**July 2018** - Joined [Architrave Gmbh](https://www.architrave.de/)
+**Oct 2019** - Gave a [talk](https://speakerdeck.com/abiodunjames/build-a-serverless-recommendation-engine-in-72-hours) at Serverless Architecture Conference, Berlin
 
 **Sept 2019** - Gave a talk at AWS Community Day, Hamburg
 
-**Oct 2019** - Gave a [talk]([https://speakerdeck.com/abiodunjames/build-a-serverless-recommendation-engine-in-72-hours](https://speakerdeck.com/abiodunjames/build-a-serverless-recommendation-engine-in-72-hours)) at Serverless Architecture Conference, Berlin
+**July 2018** - Joined [Architrave Gmbh](https://architrave.de)
 
-**June 2020** - Gave a [talk]([https://www.slideshare.net/SamuelJames16/understanding-devops-236615132](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132)) titled Understanding DevOps
+**March 2018** - Lead Developer at [Alphahill](%5Bhttps://alphahill.com/%5D(https://alphahill.com/))
+
+**February 2017** -  Led a team at Multistream Technologies
+
+**April 2015** - Joined [Venture Garden Group](http://venturegardengroup.com/)
+
+**January 2013**  - Joined Access Solution LTD
