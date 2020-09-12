@@ -1,6 +1,8 @@
 ---
 title: How We Built a Serverless E-Commerce Website on AWS to Combat COVID-19
 date: 2020-09-12 06:52:00 Z
+categories:
+- Serverless
 tags:
 - aws
 - serverless
