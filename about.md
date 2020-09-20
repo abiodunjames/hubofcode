@@ -18,7 +18,7 @@ If you want to get in touch, shoot me a  <a href ="mailto:samuel4abiodun@gmail.c
 
 ---
 
-**June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled Understanding DevOps
+**June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled "Understanding DevOps"
 
 **April 2020** - Created [HubofML](https://twitter.com/hubofml)
 
