@@ -1,6 +1,9 @@
 ---
 title: Sales Demand Forecasting with Amazon Forecast
 date: 2020-10-17 07:36:00 Z
+categories:
+- AWS
+- Forecast
 canonical_url: https://medium.com/@samuelabiodun/sales-demand-forecasting-with-amazon-forecast-4ff81e6db807
 image: "/uploads/forecasting.png"
 ---
