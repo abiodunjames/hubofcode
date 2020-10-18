@@ -4,6 +4,9 @@ date: 2020-10-17 07:36:00 Z
 categories:
 - AWS
 - Forecast
+tags:
+- retail
+- ecommerce
 canonical_url: https://medium.com/@samuelabiodun/sales-demand-forecasting-with-amazon-forecast-4ff81e6db807
 image: "/uploads/forecasting.png"
 ---
