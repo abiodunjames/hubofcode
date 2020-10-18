@@ -9,6 +9,8 @@ tags:
 - ecommerce
 canonical_url: https://medium.com/@samuelabiodun/sales-demand-forecasting-with-amazon-forecast-4ff81e6db807
 image: "/uploads/forecasting.png"
+author: samuel
+comment: true
 ---
 
 > Forecasting is a process of making predictions of the future based on past and present data and, most commonly, by analyzing trends.
