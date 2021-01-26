@@ -1,6 +1,9 @@
 ---
 title: What People Get Wrong About DevOps
 date: 2021-01-26 19:35:00 Z
+comment: true
+author: Samuel
+canonical_url: https://medium.com/swlh/what-people-get-wrong-about-devops-535bfe48664e
 ---
 
 I was scrolling carelessly on Reddit a few days ago when I saw a thread on buzzwords that made me pause for a few seconds. In truth, buzzwords are powerful. They tend to express ideas and concepts in one word that are usually more popular than the core ideas they represent. For me, I like to see buzzwords as a way of packaging ideas with fancy words.
