@@ -1,5 +1,5 @@
 ---
-title: What People Get Wrong about DevOps
+title: What People Get Wrong About DevOps
 date: 2021-01-26 19:35:00 Z
 comment: true
 author: Samuel
