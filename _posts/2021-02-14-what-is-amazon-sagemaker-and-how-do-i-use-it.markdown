@@ -15,7 +15,7 @@ comment: true
 ![](https://res.cloudinary.com/samueljames/image/upload/c_scale,w_300/v1613297243/pasted-image-0.png)
 We’re in the fourth industrial age, where data is accumulated, collated, analyzed, and interpreted at lightning-fast speeds. Highly competitive [organizations enhance their platforms with AI](https://iamondemand.com/blog/5-must-have-dsml-platform-capabilities-to-stay-competitive-in-2020-and-beyond/), but many companies are unable to process the information they collect and use it in a meaningful way because they have insufficient computing resources, storage, and even availability. That’s where cloud-native AI and machine learning (ML) like Amazon SageMaker come into play. In this post, you’ll learn about Amazon SageMaker—what it is and how to use it.
 
-> Editorial note:  This post was initially published on Iamondemand’s blog. You can check out the original here, at their site.
+> Editorial note:  This post was initially published on Iamondemand’s blog. You can check out the original [here](https://iamondemand.com/blog/what-is-amazon-sagemaker-and-how-do-i-use-it-2/), at their site.
 
 # Machine Learning in the Cloud
 
