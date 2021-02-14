@@ -16,19 +16,19 @@ At a time in my career, I thought DevOps was another tech role. Five years ago, 
 
 You might ask, what is DevOps? To understand what DevOps is, we first need to understand what DevOps is not.
 
-#### It’s not a role or a title.
+## It’s not a role or a title.
 
 DevOps is not a role you assume after graduating with a CS degree from a top university. Neither a role you’re entitled to after building test automation infrastructure for a company’s product. DevOps is much more than a title conferred on one person.
 
-#### It’s not about tools.
+## It’s not about tools.
 
 While many tools can augment your DevOps initiatives, DevOps is not about tools. You don’t practice DevOps by installing or learning tools. DevOps is broader than the tools you use. If your organization does not fully grasp DevOps’ main concept, you will have a hard time benefiting from all the concepts DevOps has to offer.
 
-#### It’s not all about bringing Devs and Ops together in one team.
+## It’s not all about bringing Devs and Ops together in one team.
 
 DevOps is much more than combining Devs and Ops in the same team. While having Devs and Ops in the same team with the purpose of improving collaboration is one of the DevOps practices, it’s easy to fall into the trap that you’re practicing DevOps by merely bringing Devs and Ops together in one team.
 
-#### It’s not a team
+## It’s not a team
 
 It’s common to see businesses wanting to adopt a DevOps mindset assume they practice DevOps by creating a team tagged “DevOps team” mainly composed of Ops engineers in charge of operations related tasks. Having a DevOps team does not mean you have adopted DevOps.
 
@@ -36,7 +36,7 @@ It’s common to see businesses wanting to adopt a DevOps mindset assume they pr
 
 It must be embraced by the entire organization. You may have heroes who understand DevOps and have shown the willingness and strong leadership skills able to help drive DevOps transformation across the board in your organization. However, a dedicated team of Ops engineers is not the same thing as practicing DevOps.
 
-### What does DevOps mean?
+# What does DevOps mean?
 
 The word DevOps came to be in 2009 after Patrick Debois coined it. It’s a word formed by combining “development” and “operations.” To understand the reasoning behind the word and how it came to be, you first need to understand the problem it tries to solve.
 
@@ -48,7 +48,7 @@ When you make frequent changes, the chances of disrupting service stability or b
 
 In the real world, apps that generate the most revenue are the ones that need frequent changes, releases, and need to be the most reliable and stable. These opposing goals make developer-operations conflict unavoidable, and hence something has to be done. Hence, the word DevOps was born.
 
-### What does it mean to practice DevOps?
+# What does it mean to practice DevOps?
 
 DevOps is about people as well culture with one goal of continuously delivering business value.
 
@@ -82,6 +82,6 @@ Because the business cares about achieving business goals, they create long-term
 
 Rather than thinking in terms of output, they think in terms of outcome. They don’t celebrate based on the number of tasks completed but rather on outcomes or business outcomes. Because the team cares about quality, resilience, and reliability, they deliberately inject failures into their production environment to uncover weaknesses and learn how their systems fail and remediate them.
 
-### Wrapping up
+# Wrapping up
 
 We could go on and on what DevOps is; the bottom line is DevOps is not a title, a role, or a job function, and you can’t hire it. It’s more of a culture, and your entire organization needs to embrace DevOps for it to work. Beautifully sums up by Irma Harlann in his [post](https://neonrocket.medium.com/devops-is-a-culture-not-a-role-be1bed149b0#:~:text=Mike Dilworth%2C Agile and DevOps,DevOps for it to work.&text=DevOps is about continual learning and improvement rather than an end state.), *“The whole company needs to be doing DevOps for it to work”
