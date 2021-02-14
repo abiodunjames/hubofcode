@@ -28,11 +28,11 @@ Observability is a system that enables you to understand what’s really happeni
 
 An effective observability solution may address questions like:
 
-- - - Why is “y” broken?
-    - What went wrong during the release of feature “x”?
-    - Why has system performance degraded over the past few months?
-    - What did my service look like at point “y”?
-    - Is this system issue affecting specific users or all of them?
+- Why is “y” broken?
+- What went wrong during the release of feature “x”?
+- Why has system performance degraded over the past few months?
+- What did my service look like at point “y”?
+- Is this system issue affecting specific users or all of them?
 
 You may ask why you should put in the effort to make your systems observable. I discuss the reasons in the following sections.
 
