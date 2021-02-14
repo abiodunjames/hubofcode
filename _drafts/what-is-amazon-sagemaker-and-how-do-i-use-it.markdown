@@ -5,8 +5,11 @@ categories:
 - MachineLearning
 tags:
 - SageMaker
+- aws
 author: samuel
-canonical_link: https://iamondemand.com/blog/what-is-amazon-sagemaker-and-how-do-i-use-it-2/
+canonical_url: https://iamondemand.com/blog/what-is-amazon-sagemaker-and-how-do-i-use-it-2/
+image: https://res.cloudinary.com/samueljames/image/upload/v1613297243/pasted-image-0.png
+comment: true
 ---
 
 
