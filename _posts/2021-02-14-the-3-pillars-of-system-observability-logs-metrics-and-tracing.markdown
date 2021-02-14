@@ -8,6 +8,9 @@ tags:
 - tracing
 - logs
 - metrics
+author: samuel
+comment: true
+canonical_url: https://iamondemand.com/blog/the-3-pillars-of-system-observability-logs-metrics-and-tracing/
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1613297562/image1.png)
