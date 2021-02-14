@@ -92,9 +92,9 @@ A trace represents the entire journey of a request or action as it moves through
 
 Tracing is better suited for debugging and monitoring complex applications that contend for resources (e.g., a mutex, disk, or network) in a nontrivial manner. Tracing provides quick answers to the following questions in distributed software environments:
 
-- - - Which services have inefficient or problematic code that should be prioritized for optimization?
-    - How is the health and performance of services that make up a distributed architecture?
-    - What are the performance bottlenecks that could affect the overall end-user experience?
+- Which services have inefficient or problematic code that should be prioritized for optimization?
+- How is the health and performance of services that make up a distributed architecture?
+- What are the performance bottlenecks that could affect the overall end-user experience?
 
 Although logs, traces, and metrics each serve their own unique purpose, they all work together to help you better understand the performance and behavior of distributed systems. If your organization already uses microservice or serverless architecture, or if they plan to adopt containers and microservices, a combination of all the telemetry data will provide the detailed information needed to understand and debug your system.
 
