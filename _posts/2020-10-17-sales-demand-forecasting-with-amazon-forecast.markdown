@@ -14,8 +14,8 @@ comment: true
 ---
 
 ![](https://hubofco.de/uploads/forecasting.png)
-> Forecasting is a process of making predictions of the future based on past and present data and, most commonly, by analyzing trends.
-> \- [Wikipedia](https://en.wikipedia.org/wiki/Forecasting#:~:text=Forecasting is the process of,at some specified future date.)
+According to [Wikipedia](https://en.wikipedia.org/wiki/Forecasting), Forecasting is a process of making predictions of the future based on past and present data and, most commonly, by analyzing trends.
+
 
 History is filled with people trying to predict the future by looking at trends and patterns. We don’t have the power to change the past, but we can control future outcomes if we know the future.
 
