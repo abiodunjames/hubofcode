@@ -97,11 +97,6 @@ Research shows that there’s an increasing demand for ML, and the future of ML 
 
 Amazon SageMaker lets you implement ML features without some of the operational overheads experienced with on-premise setup. SageMaker also provides the APIs and SDKs, freeing you from responsibility for setup, and you can embed ML functionalities on the go.
 
-## We know tech blogging
-
-Our clients have seen 1008% increase in traffic once they publish content created by our tech experts.
-
-[Learn more](https://iamondemand.com/success-stories/)
 
 ## Pay for What You Use
 
