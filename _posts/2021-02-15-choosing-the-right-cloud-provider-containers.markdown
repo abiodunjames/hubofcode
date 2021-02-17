@@ -6,6 +6,9 @@ categories:
 tags:
 - containers
 - cloud
+canonical_url: https://iamondemand.com/blog/which-cloud-provider-is-right-for-you-an-iod-series-part-2/
+author: samuel
+comments: true
 ---
 
 Prior to container technology, making applications run on different environments was one of the greatest struggles for a developer. “It runs on my machine” was a common frustration you heard from engineers—including me, many times. 
