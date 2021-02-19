@@ -59,13 +59,13 @@ There are many cloud services for running container workloads using Kubernetes, 
 
 With Amazon EKS, you can easily manage your applications and Kubernetes clusters across hybrid environments too, plus you can use the Kubernetes jobs to run parallel or sequential batch workloads on your EKS cluster. Common use cases for Amazon EKS include hybrid development, batch processing, machine learning, and web applications. The fee charged by AWS is $0.10/hour for each EKS cluster created.
 
-### Strengths
+## Strengths
 
 * Highly configurable and customizable
 
 * Efficiently provisions and scales your Kubernetes application
 
-### Limitations
+## Limitations
 
 * Complexity involved with addition and customization of node pools
 
@@ -77,13 +77,13 @@ With Amazon EKS, you can easily manage your applications and Kubernetes clusters
 
 With Google Kubernetes Engine, you can create clusters based on your budget and the availability requirements of your workload. The two available clusters include: regional and zonal (multi-zonal and single-zonal). GKE has a financially backed Service Level Agreement that guarantees 99.5% availability and 99.95% availability for[ zonal clusters](https://cloud.google.com/kubernetes-engine/docs/concepts/types-of-clusters)and [regional clusters](https://cloud.google.com/kubernetes-engine/docs/concepts/types-of-clusters), respectively. Just like Amazon, Google charges $0.10/hour for every GKE cluster that you create, although there is no charge for Anthos GKE Clusters.
 
-### Strengths
+## Strengths
 
 * Easy Cluster creation and management
 
 * Automatic cluster patching and upgrades
 
-### Limitations
+## Limitations
 
 * Difficulty in customizing server configurations
 
@@ -95,13 +95,13 @@ With Google Kubernetes Engine, you can create clusters based on your budget and 
 
 AKS has a financially backed Service Level Agreement that guarantees 99.95% availability for Kubernetes clusters using Azure Availability Zone and 99.9% availability for Kubernetes clusters that don’t. Unlike other providers, Azure doesn’t charge for Kubernetes cluster management. However, you pay for the resources you use, like networking, storage resources, and virtual machine instances.
 
-### Strengths
+## Strengths
 
 * Faster end-to-end development experience via Azure DevOps, Kubernetes tools, Visual Studio Code, and Azure Monitor
 
 * Advanced access and identity management using Azure Active Directory
 
-### Limitations
+## Limitations
 
 * No automatic node updates
 
