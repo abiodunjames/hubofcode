@@ -13,7 +13,7 @@ comment: true
 canonical_url: https://iamondemand.com/blog/the-3-pillars-of-system-observability-logs-metrics-and-tracing/
 ---
 
-
+![](https://res.cloudinary.com/samueljames/image/upload/c_scale,w_300/v1613297562/image1.png)
 Microservice architecture has become the new model for building modern-day applications. While decoupled services are easy to scale and manage, increasing interactions between those services have created a new set of problems. It’s no surprise that debugging was listed as a major challenge in the [annual state of microservices report](https://tsh.io/blog/what-are-microservices-in-2020-key-findings-from-survey-report/).
 
 > Editorial note:  This post was initially published on Iamondemand’s blog. You can check out the [original here](https://iamondemand.com/blog/the-3-pillars-of-system-observability-logs-metrics-and-tracing/), at their site.
