@@ -1,6 +1,6 @@
 ---
 title: Rapid code prototyping in IDE with Quokka.js
-date: 2020-01-05 10:26:35 Z
+date: 2020-01-05 10:26:00 Z
 categories:
 - Javascript
 tags:
@@ -8,9 +8,9 @@ tags:
 - IDE
 - Quokka.js
 - Development Environment
-layout: post
 author: Samuel
 comments: true
+layout: post
 ---
 
 Today I want to talk about one of my favorite plugins for prototyping Javascript in visual studio code: [Quokka.js](https://quokkajs.com/).
@@ -30,7 +30,7 @@ As at the time of writing this post, [Quokka.js](https://quokkajs.com/) supports
 
 
 
-### Installing Quokka.js in Visual Studio Code.
+## Installing Quokka.js in Visual Studio Code.
 
 
 Click on the extension icons and in VS Code and search for Quokka.
@@ -39,7 +39,7 @@ Alternatively, you can install it from your browser by clicking on the install b
 
 
 
-### Getting  live feedback with Quokka.js
+## Getting  live feedback with Quokka.js
 
 To launch Quokka.js, use Ctrl/Cmd + Shift + P  to display your editor command's pallete.
 
