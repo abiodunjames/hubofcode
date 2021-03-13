@@ -13,7 +13,8 @@ comments: true
 
 Building a good Application Programming Interface (API) is more than returning responses. Being a developer and having integrated with tons of APIs, I have noticed a pattern between successful API products and those that are not. It’s about solving problems with great affordance. One might ask the key to building good API products. In this post, I’ll provide some tips that I have found essential when doing so.
 
-> Originally published on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), [03/02/2021]. 
+> Originally published on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
+
 After landing my first software engineer role seven years ago, my first big project was building an online book marketplace. In the project, I integrated with multiple Application Programming Interfaces (API). From pre-filling book information using an International Standard Book Number (ISBN) to charging customer credit cards, integration with APIs was key to this project.
 
 ## Working with APIs
@@ -32,10 +33,11 @@ The API growth rate is increasing at an explosive rate. According to a recent [P
 
 ### To put these in a better way:
 
-- Consumers are moving from a single to multi-device experience, which drives a need for systems to be integrated.
-- Businesses are moving away from the monolithic way of building applications to a more decentralized architecture.
+* Consumers are moving from a single to multi-device experience, which drives a need for systems to be integrated.
 
-- Organizations are shifting from on-premise data-center to the cloud.
+* Businesses are moving away from the monolithic way of building applications to a more decentralized architecture.
+
+* Organizations are shifting from on-premise data-center to the cloud.
 
 The tech industry’s significant shifts and [consumer behavior](https://www.mindtheproduct.com/understanding-users-learnings-from-the-mtpcon-session-speakers/) further buttress that the API economy has come to stay, and businesses benefiting the most tend to create API products that developers love to use.
 
@@ -51,10 +53,13 @@ Mehdi Medjaoui, in his book [Continuous API Management](https://www.amazon.com/C
 
 When designing your API, you should pay attention to the following:
 
-- Vocabularies: Are your words and terms easy to understand for your users?
-- Styles: What protocols are you supporting, Rest, or GraphQL?
-- Naturalness: Do your users have to change their usual ways of solving their problems significantly? Did you follow established standards and conventions?
-- Consistency: What level of familiarity will you provide? Are your APIs similar to what your users may have used in the past?
+* Vocabularies: Are your words and terms easy to understand for your users?
+
+* Styles: What protocols are you supporting, Rest, or GraphQL?
+
+* Naturalness: Do your users have to change their usual ways of solving their problems significantly? Did you follow established standards and conventions?
+
+* Consistency: What level of familiarity will you provide? Are your APIs similar to what your users may have used in the past?
 
 ## Get Good at Documentation
 
@@ -74,8 +79,9 @@ The quality of tech decisions you make transcends what is needed to launch your 
 
 You also have to decide what to test and how you will test it to build confidence in your API. In summary,  your tests should be able to cover the following:
 
-- Can the API Product deliver on the strategic goals?
-- Is the API Product quality enough to support the strategic goals?
+* Can the API Product deliver on the strategic goals?
+
+* Is the API Product quality enough to support the strategic goals?
 
 APIs are meant to be simple, they hide complexities and do not expose them. I like to compare APIs to an electric plug — simple to use without any complicated manuals —  an electric plug does not care about the source of electricity, neither does it care about the change over switch installed or the electricity provider. It’s a conduit for electricity–plug, and it just works. Admittedly, modern systems are complex, but the complexity should not leak to the interfaces.
 
