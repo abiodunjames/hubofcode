@@ -11,9 +11,9 @@ author: samuel
 comments: true
 ---
 
-Building a good Application Programming Interface (API) is more than returning responses. Being a developer and having integrated with tons of APIs, I have noticed a pattern between successful API products and those that are not. It’s about solving problems with great affordance. One might ask the key to building good API products. In this post, I’ll provide some tips that I have found essential when doing so.
+> Originally published by me on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
 
-> Originally published on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
+Building a good Application Programming Interface (API) is more than returning responses. Being a developer and having integrated with tons of APIs, I have noticed a pattern between successful API products and those that are not. It’s about solving problems with great affordance. One might ask the key to building good API products. In this post, I’ll provide some tips that I have found essential when doing so.
 
 After landing my first software engineer role seven years ago, my first big project was building an online book marketplace. In the project, I integrated with multiple Application Programming Interfaces (API). From pre-filling book information using an International Standard Book Number (ISBN) to charging customer credit cards, integration with APIs was key to this project.
 
