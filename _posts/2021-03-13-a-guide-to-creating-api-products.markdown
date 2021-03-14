@@ -11,7 +11,7 @@ author: samuel
 comments: true
 ---
 
-![](https://res.cloudinary.com/samueljames/image/upload/c_scale,w_200/v1615721592/ApI.png)
+![API Products](https://res.cloudinary.com/samueljames/image/upload/c_scale,w_200/v1615721592/ApI.png)
 
 > Originally published by me on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
 
