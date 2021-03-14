@@ -11,6 +11,7 @@ author: samuel
 comments: true
 ---
 
+![](https://res.cloudinary.com/samueljames/image/upload/v1615721592/ApI.png)
 > Originally published by me on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
 
 Building a good Application Programming Interface (API) is more than returning responses. Being a developer and having integrated with tons of APIs, I have noticed a pattern between successful API products and those that are not. It’s about solving problems with great affordance. One might ask the key to building good API products. In this post, I’ll provide some tips that I have found essential when doing so.
