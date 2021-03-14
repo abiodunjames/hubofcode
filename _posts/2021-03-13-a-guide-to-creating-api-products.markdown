@@ -77,7 +77,7 @@ This is one of the most important phases in API development. This is where your 
 
 The quality of tech decisions you make transcends what is needed to launch your product’s first version.  Launching the first version of your API is one part of the job. You have to make decisions about your API’s quality, reliability, changeability, and maintainability over a lifetime. [API performance and uptime ](https://www.postman.com/state-of-api/executing-on-apis/#executing-on-apis)are considered to be some of the major determinants of whether an API product meets consumers’ expectations. This sheds light on how consumers will assess your API.
 
-## Tracking effectiveness
+## Tracking Effectiveness
 
 You also have to decide what to test and how you will test it to build confidence in your API. In summary,  your tests should be able to cover the following:
 
