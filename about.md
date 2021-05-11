@@ -12,7 +12,7 @@ I write a lot about code and technology in general. You’ll find my posts on ma
 
 My software development experience spans various sectors like FinTech, EduTech, and PropTech. At the moment, I work at [Tier Mobility GMBH](https://tier.app/), where we're changing mobility for good.
 
-If you want to get in touch, shoot me a  <a href ="mailto:samuel4abiodun@gmail.com">mail</a>
+If you want to get in touch, shoot me a  <a href ="mailto:james@hubofco.de">mail</a>
 
 ### News
 
