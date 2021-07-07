@@ -1,7 +1,6 @@
 ---
 title: Security Risks and Challenges in the Serverless World
 date: 2021-07-07 06:41:00 Z
-published: false
 categories:
 - Serverless
 - Security
