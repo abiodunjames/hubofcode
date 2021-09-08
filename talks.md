@@ -5,6 +5,8 @@ author: Samuel
 layout: post
 ---
 
+[Build Quality into Software From Day 1](https://www.slideshare.net/SamuelJames16/building-quality-into-software-from-day-1)
+
 [API Conference - Hague 2021](https://www.slideshare.net/SamuelJames16/building-api-products)
 
 [Serverless Architecture Conference - Oct 14th - 16th, 2019 Berlin](https://speakerdeck.com/abiodunjames/build-a-serverless-recommendation-engine-in-72-hours)
