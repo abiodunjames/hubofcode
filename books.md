@@ -3,7 +3,7 @@ title: Newsletter
 permalink: "/newsletter/"
 ---
 
-<iframe src="https://softwareleads.substack.com/embed" width="100$" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://softwareleads.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 # Why subscribe?
 As you move from actively coding to leading a team of coders, you'll need a different set of skills to succeed in your new roles and responsibilities. You don't usually get a manual to help you succeed; instead, you learn by doing and observing what works and what doesn't.
