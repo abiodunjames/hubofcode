@@ -1,5 +1,5 @@
 ---
-title: 11 Blogposts That Changed How I Lead Software Teams in 2021
+title: 11 Blogposts That Changed My Perspective About Leading Software Teams in 2021
 date: 2022-01-06 14:41:00 Z
 categories:
 - leadership
