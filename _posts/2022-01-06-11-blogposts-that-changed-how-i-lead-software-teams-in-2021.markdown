@@ -18,7 +18,7 @@ _<sub>[Image Source](https://icons8.com/)</sub>_
 
 Last year, I broke my records of daily reading per month. It was the year I read the most book. It was also the year I read the most articles. In 2021, I was fortunate enough to come across really great posts and books that have changed my perspectives on leading software teams and becoming a better software engineer. 
 
-In this post, I’ll share some of these posts because I believe there are ideas and new learnings that make you a better engineer, a better engineering manager, or a better CTO. There is something in it for everyone even if you’re just starting your career or a veteran in the industry. 
+In this post, I’ll share some of these posts because I believe there are ideas and new learnings that will make you a better engineer, a better engineering manager, or a better CTO. There is something in it for everyone even if you’re just starting your career or a veteran in the industry. 
 
 
 # Getting the Best Out of These Posts
