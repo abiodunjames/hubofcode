@@ -51,7 +51,7 @@ We’re often told to lead by example. Yes, we all need to set good examples for
 
 ## **[Leading Without Managing – David Golden](https://xdg.me/leading-without-managing/)**
 
-Julie Zhuo in her book defines Leadership as being able to guide and influence other people. When most think of leading, they think of it as something that people in authority or engineers who wear manager's or tech lead's hats do. Contrary to that, anyone can be a leader. It’s a skill anyone can learn. One of the key things I learned from this post was anyone can lead without having the authority or coercive power and how to do just that without authority.
+Julie Zhuo, in her book, defines Leadership as being able to guide and influence other people. When most think of leading, they think of it as something that people in authority or engineers who wear manager’s or tech lead’s hats do. Contrary to that, anyone can be a leader, and it’s a skill anyone can learn. One of the key points I learned from this post was that anyone could lead without authority or coercive power and how to do just that without authority.
 
 ## **[Three Crucial Skills Leaders Must Develop to Become Executives – Nikhyl Singhal](https://theskip.substack.com/p/three-crucial-skills-that-leaders)**
 
