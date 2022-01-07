@@ -17,3 +17,7 @@ Every now and then, I come across exceptional books that have influenced my care
 - [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://amzn.to/34aKIQv)
 
 - [Leadership Strategy and Tactics: Field Manual](https://amzn.to/3ueBspg)
+
+- [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.de/-/en/Will-Larson/dp/1732265186)
+
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
