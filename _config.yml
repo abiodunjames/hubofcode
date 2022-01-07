@@ -13,7 +13,7 @@ collections:
     output: true
 name: HubofCode
 author: Samuel James
-description: My personal blog on software engineering & machine learning
+description: My personal blog on making software
 avatar: "/images/logo.png"
 permalink: pretty
 paginate: 15
