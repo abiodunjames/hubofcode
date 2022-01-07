@@ -16,7 +16,7 @@ comment: true
 
 Last year, I broke my records of daily readings. It was the year I read the most books. It was also the year I read the most blogposts. In 2021, I was fortunate enough to come across really great posts and books that have shaped my perspectives on leading software teams and helped me become a better software engineer.
 
-In this post, I’ll share some of these blog posts. I believe there are ideas and new learnings that will make you a better engineer, a better engineering manager, or a better CTO. There is something in it for everyone even if you’re just starting your career or a veteran in the industry.
+In this post, I’ll share some of these blog posts. I believe there are ideas and new learnings that will make you a better engineer, a better engineering manager, or a better CTO. There is something in it for everyone even if you’re just starting your career or even if you're a veteran in the industry.
 
 # Getting the Best Out of The Posts
 
