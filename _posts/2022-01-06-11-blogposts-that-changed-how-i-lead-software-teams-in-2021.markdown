@@ -43,7 +43,7 @@ Communication is very crucial to leading effectively. But there is a clear diffe
 
 ## **[You Are Your Own Best Hype Person – Marie Chatfield](https://developer.squareup.com/blog/you-are-your-own-best-hype-person)**
 
-One valuable lesson I learned a while ago was no one lights a candle and puts it under a bushel. This is why organizations invest a lot of resources in marketing their products and brands.  At some point in any engineer’s career, you’re going to have to prove to someone that you’re worth it: worth hiring, worth promoting, worth the raise, worth taking a risk on. The better you’re at making known what you do to others (that’s hyping yourself), the higher your chances of succeeding.
+No one lights a candle and puts it under a bushel. At some point in any engineer’s career, you’re going to have to prove to someone that you’re worth it: worth hiring, worth promoting, worth the raise, worth taking a risk on. The better you’re at making known what you do to others (that’s hyping yourself), the higher your chances of succeeding.
 
 ## **[Don’t Lead By Example – James Coling](https://dropbox.tech/infrastructure/dont-lead-by-example)**
 
