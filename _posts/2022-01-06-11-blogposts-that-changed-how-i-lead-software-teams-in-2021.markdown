@@ -25,7 +25,7 @@ There is something in it for everyone, even if you’re starting your career or 
 
 Frequently, I find myself in a situation where I could use some insights from what I’ve learned, and I completely forgot them. I’ve developed a process that helped me remember what I read and make them stick.
 
-As you through each post, I recommend doing the following to the get best out of each post.
+As you read through each post, I recommend doing the following to get the best out of each post.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2lj91yutkli0zgb2eh6.jpeg)
 
