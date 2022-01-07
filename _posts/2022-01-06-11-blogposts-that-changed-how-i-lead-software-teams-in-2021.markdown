@@ -97,7 +97,8 @@ This link contains a collection of todos, how-tos, templates, and articles for e
 
 ## **[First Day Success Manual for New Managers – John Reh](https://www.thebalancecareers.com/succeeding-on-your-first-day-as-a-manager-2276172)**
 
-I’ve seen managers and senior engineers setting themselves up for failure immediately after they joined a new team. They start by criticising the existing codebase, past practices, and wanting to implement tons of their processes from day one.  Criticising past practices no matter how ineffective they seem is one of the many ways new hires set themselves up for failure. I love this post because it outlines how to prepare for making a good impression ranging from meeting the team, to attitude and culture.
+One of the few ways to set yourself for failure when joining a new team is to start by criticizing the existing codebase, past practices and implementing tons of their processes from day one without having a clear picture of how things came to be. Criticizing past practices no matter how ineffective they seem is one of the many ways new hires set themselves up for failure. I love this post because it outlines how to prepare and make a really good impression, from meeting the team to attitude and culture when joining a new team.
+
 
 ---
 
