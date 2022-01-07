@@ -18,7 +18,7 @@ Last year, I broke my records of daily readings. It was the year I read the most
 
 In this post, I’ll share some of these blog posts. I believe there are ideas and new learnings that will make you a better engineer, a better engineering manager, or a better CTO. There is something in it for everyone even if you’re just starting your career or even if you're a veteran in the industry.
 
-# Getting the Best Out of The Posts
+# Getting The Best Out Of The Posts
 
 Frequently, I find myself in a situation where I could use some insights from what I’ve learned, and I completely forgot them. I’ve developed a process that helped me remember what I read and make them stick.
 
@@ -34,7 +34,7 @@ As you through each post, I recommend doing the following to the get best out of
 
 4. Re-read your notes often.
 
-## [Effective communication is not about what you say – Melanie Ensign](https://github.com/readme/guides/effective-communication)
+## [Effective Communication Is Not About What You Say – Melanie Ensign](https://github.com/readme/guides/effective-communication)
 
 Communication is very crucial to leading effectively. But there is a clear difference between merely passing a message across and communicating effectively. The outcome of any communication is what determines how effective it is. Simply pushing out a message or publishing information is not enough to measure its impact. Effective communication is focused on what people need to hear in order to reach the outcome you desire and less on what you say.
 
