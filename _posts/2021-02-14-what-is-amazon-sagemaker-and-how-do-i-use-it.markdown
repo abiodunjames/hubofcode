@@ -227,6 +227,7 @@ print(train_df.shape, test_df.shape)
 In this step, you’ll train your ML model with the train_df dataset.
 
 1. To use SageMaker’s prebuilt XGBoost model, reformat the dataset structure and load the data from the AWS S3 bucket. See code below:
+
 ```python
 
 pd.concat([train_df['y_yes'], train_df.drop(['y_no', 'y_yes'], axis=1)],
@@ -254,7 +255,9 @@ _predictor = xgboost_model.deploy(initial_instance_count=1, instance_type='ml.m4
 ```
 1. Now that the dataset has been loaded and you’ve set up the estimator, use gradient optimization to train the model on the “ml.m4.xlarge” instance. See code below:
 
-    xgboost_model.fit({'train': s3_input_train})
+```python
+xgboost_model.fit({'train': s3_input_train})
+```
 
 ![img](https://iamondemand.com/wp-content/uploads/2020/08/image4.png)
 
