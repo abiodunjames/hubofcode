@@ -1,5 +1,5 @@
 ---
-title: 11 Blogposts That Shaped My Leadership Perspective in 2021
+title: 11 Blog Posts That Shaped My Leadership Perspectives in 2021
 date: 2022-01-06 14:41:00 Z
 categories:
 - leadership
@@ -14,15 +14,16 @@ comment: true
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p086kcm76oxbc4z2mov1.png)
 *<sub>[Image Source](https://icons8.com/)</sub>*
 
-Last year, I broke my records of daily readings per month. It was the year I read the most books. It was also the year I read the most articles. In 2021, I was fortunate enough to come across really great posts and books that have shaped my perspectives on leading software teams and helped me become a better software engineer.
+Last year, I broke my records of daily readings. It was the year I read the most books, and it was also the year I read the most blog posts. In 2021, I was fortunate enough to come across great posts and books that shaped my perspectives on leading software teams and helped me become a better software engineer.
 
-In this post, I’ll share some of these blog posts. I believe there are ideas and new learnings that will make you a better engineer, a better engineering manager, or a better CTO. There is something in it for everyone even if you’re just starting your career or a veteran in the industry.
+In this post, I’ll share some of these blog posts. I believe there are ideas and new learnings in them that will make you a better engineer or engineering manager.
 
-# Getting the Best Out of The Posts
+
+# Getting The Best Out Of The Posts
 
 Frequently, I find myself in a situation where I could use some insights from what I’ve learned, and I completely forgot them. I’ve developed a process that helped me remember what I read and make them stick.
 
-As you through each post, I recommend doing the following to the get best out of each:
+As you read through each post, I recommend doing the following to get the best out of each post.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2lj91yutkli0zgb2eh6.jpeg)
 
@@ -34,13 +35,13 @@ As you through each post, I recommend doing the following to the get best out of
 
 4. Re-read your notes often.
 
-## [Effective communication is not about what you say – Melanie Ensign](https://github.com/readme/guides/effective-communication)
+## [Effective Communication Is Not About What You Say – Melanie Ensign](https://github.com/readme/guides/effective-communication)
 
 Communication is very crucial to leading effectively. But there is a clear difference between merely passing a message across and communicating effectively. The outcome of any communication is what determines how effective it is. Simply pushing out a message or publishing information is not enough to measure its impact. Effective communication is focused on what people need to hear in order to reach the outcome you desire and less on what you say.
 
 ## **[You Are Your Own Best Hype Person – Marie Chatfield](https://developer.squareup.com/blog/you-are-your-own-best-hype-person)**
 
-One valuable lesson I learned a while ago was no one lights a candle and puts it under a bushel. This is why organizations invest a lot of resources in marketing their products and brands.  At some point in any engineer’s career, you’re going to have to prove to someone that you’re worth it: worth hiring, worth promoting, worth the raise, worth taking a risk on. The better you’re at making known what you do to others (that’s hyping yourself), the higher your chances of succeeding.
+No one lights a candle and puts it under a bushel. At some point in any engineer’s career, you’re going to have to prove to someone that you’re worth it: worth hiring, worth promoting, worth the raise, worth taking a risk on. The better you’re at making known what you do to others (that’s hyping yourself), the higher your chances of succeeding.
 
 ## **[Don’t Lead By Example – James Coling](https://dropbox.tech/infrastructure/dont-lead-by-example)**
 
@@ -48,7 +49,7 @@ We’re often told to lead by example. Yes, we all need to set good examples for
 
 ## **[Leading Without Managing – David Golden](https://xdg.me/leading-without-managing/)**
 
-Julie Zhuo in her book defines Leadership as being able to guide and influence other people. When most think of leading, they think of it as something that people in authority or engineers who wear manager's or tech lead's hats do. Contrary to that, anyone can be a leader. It’s a skill anyone can learn. One of the key things I learned from this post was anyone can lead without having the authority or coercive power and how to do just that without authority.
+Julie Zhuo, in her book, defines Leadership as being able to guide and influence other people. When most think of leading, they think of it as something that people in authority or engineers who wear manager’s or tech lead’s hats do. Contrary to that, anyone can be a leader, and it’s a skill anyone can learn. One of the key points I learned from this post was that anyone could lead without authority or coercive power and how to do just that.
 
 ## **[Three Crucial Skills Leaders Must Develop to Become Executives – Nikhyl Singhal](https://theskip.substack.com/p/three-crucial-skills-that-leaders)**
 
@@ -94,7 +95,8 @@ This link contains a collection of todos, how-tos, templates, and articles for e
 
 ## **[First Day Success Manual for New Managers – John Reh](https://www.thebalancecareers.com/succeeding-on-your-first-day-as-a-manager-2276172)**
 
-I’ve seen managers and senior engineers setting themselves up for failure immediately after they joined a new team. They start by criticising the existing codebase, past practices, and wanting to implement tons of their processes from day one.  Criticising past practices no matter how ineffective they seem is one of the many ways new hires set themselves up for failure. I love this post because it outlines how to prepare for making a good impression ranging from meeting the team, to attitude and culture.
+One of the few ways to set yourself for failure when joining a new team is to start by criticizing the existing codebase, past practices and implementing tons of their processes from day one without having a clear picture of how things came to be. Criticizing past practices no matter how ineffective they seem is one of the many ways new hires set themselves up for failure. I love this post because it outlines how to prepare and make a really good impression, from meeting the team to attitude and culture when joining a new team.
+
 
 ---
 
