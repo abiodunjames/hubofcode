@@ -139,56 +139,71 @@ Now let’s dive right in.
 
 1. Import the relevant libraries, define some environment variables in the notebook environment (as shown below), and run the cell.
 
-    import numpy as np                
-    import pandas as pd 
-    import matplotlib.pyplot as plt   
-    import seaborn as sns
-    import boto3, re, sys, math, json, os, sagemaker, urllib.request
-    from sagemaker import get_execution_role
-    from IPython.display import Image        
-    from IPython.display import display       
-    from time 
-    import gmtime, strftime        
-    from sagemaker.predictor 
-    import csv_serializer 
-    
-    # Define the IAM role
-    role = get_execution_role()
-    prefix = 'sagemaker/DEMO-xgboost-dm'containers = {
-    'eu-west-1': '685385470294.dkr.ecr.eu-west-1.amazonaws.com/xgboost:latest',      
-    'us-west-2': '433757028032.dkr.ecr.us-west-2.amazonaws.com/xgboost:latest',
-    'us-east-1': '811284229777.dkr.ecr.us-east-1.amazonaws.com/xgboost:latest',      
-    'us-east-2': '825641698319.dkr.ecr.us-east-2.amazonaws.com/xgboost:latest'      
-    } # every region has its XGBoost container
-    my_region = boto3.session.Session().region_name # set the region of the instanceprint("Success - the MySageMakerInstance is in the " + my_region + " region. You will use the " +  containers[my_region] + " container for your SageMaker endpoint.")
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import boto3, re, sys, math, json, os, sagemaker, urllib.request
+from sagemaker import get_execution_role
+from IPython.display import Image
+from IPython.display import display
+from time import gmtime, strftime
+from sagemaker.predictor import csv_serializer
+
+# Define the IAM role 
+role = get_execution_role()
+prefix = "sagemaker/DEMO-xgboost-dm"
+containers = {"eu-west-1": "685385470294.dkr.ecr.eu-west-1.amazonaws.com/xgboost:latest",
+              "us-west-2": "433757028032.dkr.ecr.us-west-2.amazonaws.com/xgboost:latest",
+              "us-east-1": "811284229777.dkr.ecr.us-east-1.amazonaws.com/xgboost:latest",
+              "us-east-2": "825641698319.dkr.ecr.us-east-2.amazonaws.com/xgboost:latest"
+              }
+# every region has its XGBoost container 
+my_region = boto3.session.Session().region_name
+# set the region of the instance
+print("Success - the MySageMakerInstance is in the " + my_region + " region. You will use the " + containers[
+    my_region] + " container for your SageMaker endpoint.")
+
+
+```
 
 1. Create an S3 bucket. The training data and model artifacts will be saved in the bucket. (In the screen capture below, the bucket name is “awsexperimentbucket1000.”)
 
 If the S3 bucket is created successfully, your code will run without any errors (as shown below).
 
-    bucket_name = 'awsexperimentbucket1000' # you can always use any name as your bucket names3 = boto3.resource('s3')
-    try: 
-     if my_region == 'us-east-1':  
-       s3.create_bucket(Bucket=bucket_name) 
-     else:  
-       s3.create_bucket(Bucket=bucket_name, CreateBucketConfiguration={ 'LocationConstraint': my_region }) print('S3 bucket created successfully')
-    
-    except Exception as e: print('S3 error: ',e)
+```python
+
+bucket_name = 'awsexperimentbucket1000' # you can always use any name as your bucket name
+s3 = boto3.resource('s3')
+try: 
+    if my_region == 'us-east-1':  
+    s3.create_bucket(Bucket=bucket_name) 
+    else:  
+    s3.create_bucket(Bucket=bucket_name, CreateBucketConfiguration={ 'LocationConstraint': my_region }) print('S3 bucket created successfully')
+
+except Exception as e: print('S3 error: ',e)
+
+ ```   
 
 1. Download the data, then load it into a dataframe.
 
    If everything is successful, your code will run without any errors (as shown     below).
 
-    '''this is the link to the datasethttps://d1.awsstatic.com/tmt/build-train-deploy-machine-learning-model-sagemaker/bank_clean.27f01fbbdf43271788427f3682996ae29ceca05d.csv", "bank_clean.csv"'''
-    
-    try:
-     urllib.request.urlretrieve ("https://d1.awsstatic.com/tmt/build-train-deploy-machine-learning-model-sagemaker/bank_clean.27f01fbbdf43271788427f3682996ae29ceca05d.csv", "bank_clean.csv")
-    print('Data downloaded successfully')
-    except Exception as e:print('Data load error: ',e)
-    
-    try:
-     df = pd.read_csv('./bank_clean.csv',index_col=0)print('Data loaded into dataframe successfully')
-    except Exception as e: print('Data load error: ',e)
+```python
+
+'''this is the link to the datasethttps://d1.awsstatic.com/tmt/build-train-deploy-machine-learning-model-sagemaker/bank_clean.27f01fbbdf43271788427f3682996ae29ceca05d.csv", "bank_clean.csv"'''
+
+try:
+    urllib.request.urlretrieve ("https://d1.awsstatic.com/tmt/build-train-deploy-machine-learning-model-sagemaker/bank_clean.27f01fbbdf43271788427f3682996ae29ceca05d.csv", "bank_clean.csv")
+print('Data downloaded successfully')
+except Exception as e:print('Data load error: ',e)
+
+try:
+    df = pd.read_csv('./bank_clean.csv',index_col=0)print('Data loaded into dataframe successfully')
+except Exception as e: print('Data load error: ',e)
+
+```
 
 You can use the Pandas head, shape, or columns function to explore the dataset.
 
@@ -198,27 +213,45 @@ You can use the Pandas head, shape, or columns function to explore the dataset.
 
 The train set (75% of the data) will be used to build the model, while the test set (25% of the data) will be used to evaluate the model’s performance.
 
-    ### the np.split() function splits the dataset into train and test settrain_df, test_df = np.split(df.sample(frac=1, random_state=42), [int(0.75 * len(df))])print(train_df.shape, test_df.shape)
+```python
+
+### the np.split() function splits the dataset into train and test 
+
+settrain_df, test_df = np.split(df.sample(frac=1, random_state=42), [int(0.75 * len(df))])
+print(train_df.shape, test_df.shape)
+
+```
 
 ## Step 3: Train the Model
 
 In this step, you’ll train your ML model with the train_df dataset.
 
 1. To use SageMaker’s prebuilt XGBoost model, reformat the dataset structure and load the data from the AWS S3 bucket. See code below:
+```python
 
-    pd.concat ([train_df['y_yes'], train_df.drop(['y_no', 'y_yes'], axis=1)],
-    axis=1).to_csv('train.csv', index=False, header=False)
-    boto3.Session().resource('s3').Bucket(bucket_name).Object(os.path.join(prefix,
-    'train/train.csv')).upload_file('train.csv')
-    s3_input_train =
-    sagemaker.s3_input(s3_data='s3://{}/{}/train'.format(bucket_name, prefix),
-    content_type='csv')
+pd.concat([train_df['y_yes'], train_df.drop(['y_no', 'y_yes'], axis=1)],
+          axis=1).to_csv('train.csv', index=False, header=False)
+boto3.Session().resource('s3').Bucket(bucket_name).Object(os.path.join(prefix,
+                                                                       'train/train.csv')).upload_file('train.csv')
+s3_input_train = sagemaker.s3_input(s3_data='s3://{}/{}/train'.format(bucket_name, prefix),
+                                    content_type='csv')
+
+```
 
 1. Set up an Amazon SageMaker session, instantiate the estimator (XGBoost model), then define its parameters. See code below:
 
-    session = sagemaker.Session()
-    xgboost_model = sagemaker.estimator.Estimator(containers[my_region],role, train_instance_count=1,                 train_instance_type='ml.m4.xlarge',output_path='s3://{}/{}/output'.                 format(bucket_name, prefix),sagemaker_session=session)xgboost_model.set_hyperparameters(max_depth=5,eta=0.2,gamma=4,min_child_weight=6,subsample=0.8,silent=0,objective='binary:logistic',num_round=100)
+```python
 
+xgbsession = sagemaker.Session()
+xgboost_model = sagemaker.estimator.Estimator(containers[my_region], role, train_instance_count=1,
+                                              train_instance_type='ml.m4.xlarge',
+                                              output_path='s3://{}/{}/output'.format(bucket_name, prefix),
+                                              sagemaker_session=session)
+xgboost_model.set_hyperparameters(max_depth=5, eta=0.2, gamma=4, min_child_weight=6, subsample=0.8, silent=0,
+                                  objective='binary:logistic', num_round=100)
+_predictor = xgboost_model.deploy(initial_instance_count=1, instance_type='ml.m4.xlarge')
+
+```
 1. Now that the dataset has been loaded and you’ve set up the estimator, use gradient optimization to train the model on the “ml.m4.xlarge” instance. See code below:
 
     xgboost_model.fit({'train': s3_input_train})
@@ -231,13 +264,28 @@ Violà! The model training is successful.
 
 Deploy the model built to an endpoint. See code below:
 
-    xgb_predictor = xgboost_model.deploy(initial_instance_count=1,instance_type='ml.m4.xlarge')
+```python
+xgb_predictor = xgboost_model.deploy(initial_instance_count=1, instance_type='ml.m4.xlarge')
+```    
 
 Once the deployment is successful, the code above will run without any errors.
 
 Now that you’ve deployed the model, you can use the test set to generate a set of predictions. See code below.
+```python
 
-    test_df_array = test_df.drop(['y_no', 'y_yes'], axis=1).values #load the data into an arrayxgb_predictor.content_type = 'text/csv' # set the data type for an inferencexgb_predictor.serializer = csv_serializer # set the serializer typepredictions = xgb_predictor.predict(test_df_array).decode('utf-8') # predict!predictions_array = np.fromstring(predictions[1:], sep=',') # and turn the prediction into an arraypd.DataFrame(predictions_array).rename(columns={0: "predicted_values"})
+  # load the data into an array
+test_df_array = test_df.drop(['y_no', 'y_yes'],axis=1).values 
+# set the data type for an inference
+xgb_predictor.content_type = 'text/csv'
+# set the serializer type
+xgb_predictor.serializer = csv_serializer
+predictions = xgb_predictor.predict(test_df_array).decode('utf-8')
+# predict!
+predictions_array = np.fromstring(predictions[1:], sep=',')
+# and turn the prediction into an array
+pd.DataFrame(predictions_array).rename(columns={0: "predicted_values"})
+
+```
 
 ## Conclusion
 
