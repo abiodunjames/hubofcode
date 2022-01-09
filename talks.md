@@ -5,6 +5,8 @@ author: Samuel
 layout: post
 ---
 
+[API Conference - Berlin 2021](https://speakerdeck.com/abiodunjames/building-api-products)
+
 [Build Quality into Software From Day 1](https://www.slideshare.net/SamuelJames16/building-quality-into-software-from-day-1)
 
 [API Conference - Hague 2021](https://www.slideshare.net/SamuelJames16/building-api-products)
