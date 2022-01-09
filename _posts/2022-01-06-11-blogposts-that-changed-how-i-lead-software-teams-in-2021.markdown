@@ -9,6 +9,7 @@ tags:
 - career
 author: James
 comment: true
+canonical_url: https://hubofco.de/leadership/2022/01/06/11-blogposts-that-changed-how-i-lead-software-teams-in-2021/
 ---
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p086kcm76oxbc4z2mov1.png)
@@ -19,7 +20,7 @@ Last year, I broke my records of daily readings. It was the year I read the most
 In this post, I’ll share some of these blog posts. I believe there are ideas and new learnings in them that will make you a better engineer or engineering manager.
 
 
-# Getting The Best Out Of The Posts
+# Making the Most of These Posts
 
 Frequently, I find myself in a situation where I could use some insights from what I’ve learned, and I completely forgot them. I’ve developed a process that helped me remember what I read and make them stick.
 
@@ -104,4 +105,4 @@ One of the few ways to set yourself for failure when joining a new team is to st
 
 To take your learnings further, Join the [Software Leads’ newsletter](https://softwareleads.substack.com/), a monthly newsletter on software engineering and leadership.
 
-Every month, I publish a new issue that includes links to interesting articles, use cases, and insights from experts on leading teams and solving common software engineering challenges at scale. Together, we learn and become better software engineers, better software leads, better engineering managers, and CTOs by making fewer mistakes as we learn from one another
+Every month, I publish a new issue that includes links to interesting articles, use cases, and insights from experts on leading teams and solving common software engineering challenges at scale. Together, we learn and become better software engineers, better software leads, better engineering managers, and CTOs by making fewer mistakes as we learn from one another.
