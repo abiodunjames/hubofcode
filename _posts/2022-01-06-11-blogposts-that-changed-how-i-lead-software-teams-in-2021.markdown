@@ -9,7 +9,8 @@ tags:
 - career
 author: James
 comment: true
-canonical_url: https://hubofco.de/leadership/2022/01/06/11-blogposts-that-changed-how-i-lead-software-teams-in-2021/
+canonical_url: https://samuelabiodun.medium.com/11-blog-posts-that-shaped-my-leadership-perspectives-in-2021-ae7ec890dfba
+Field name: 
 ---
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p086kcm76oxbc4z2mov1.png)
