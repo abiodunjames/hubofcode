@@ -14,7 +14,7 @@ description: Learn how to integrate and optimize costs with AWS Simple Queue Ser
 layout: post
 ---
 
-In the [previous post](https://hubofco.de/A-gentle-quide-to-message-queues/), we talked in detail about queue systems and why they're essential in scaling applications.
+In the [previous post](https://hubofco.de/general/2020/01/30/A-gentle-quide-to-message-queues/), we talked in detail about queue systems and why they're essential in scaling applications.
 
 Today, we'll take it a bit further. We'll look at  [AWS Simple Queue Service (SQS)](https://aws.amazon.com/sqs/), a managed queue system provided by AWS, and how you can integrate with it from your node.js application. 
 
