@@ -1,6 +1,6 @@
 ---
 title: How to Deploy a Pytorch Model on SageMaker
-date: 2020-03-22 10:26:35 Z
+date: 2020-03-22 10:26:00 Z
 categories:
 - MachineLearning
 tags:
@@ -9,19 +9,19 @@ tags:
 - PytorchModel
 - AWS
 - SageMaker
-layout: post
 author: Samuel
 canonical_url: https://medium.com/@samuelabiodun/how-to-deploy-a-pytorch-model-on-sagemaker-aa9a38a277b6
 comments: true
 description: You'll learn how to deploy a Pytorch model trained on another environment
   to the AWS SageMaker model server.
+layout: post
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584786321/sagemaker_2.png)
 
 In this tutorial,  you'll learn how to deploy a Pytorch model on AWS cloud infrastructure. 
 
- In my [previous post](https://hubofco.de/Image-classification-with-Pytorch/), we saw how to train an image classifier that is capable of recognizing images  of objects in 10 categories. Today, we'll deploy the model from the training job on  SageMaker hosting services (Pytorch model server) for real-time inferencing.  The full source code for this tutorial can be found on this [Github repository](https://github.com/abiodunjames/MachineLearning/tree/master/DeployYourModelToSageMaker).
+ In my [previous post](https://hubofco.de/machinelearning/2020/03/14/Image-classification-with-Pytorch/), we saw how to train an image classifier that is capable of recognizing images of objects in 10 categories. Today, we'll deploy the model from the training job on  SageMaker hosting services (Pytorch model server) for real-time inferencing.  The full source code for this tutorial can be found on this [Github repository](https://github.com/abiodunjames/MachineLearning/tree/master/DeployYourModelToSageMaker).
 
 [AWS SageMaker](https://aws.amazon.com/sagemaker/) is a fully managed service from AWS that allows you to build, train, and deploy ML models into a production-ready environment at scale. It completely abstracts  the complexity of running machine learning models in production away.
 
