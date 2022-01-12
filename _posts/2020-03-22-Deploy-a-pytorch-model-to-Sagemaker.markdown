@@ -68,7 +68,7 @@ def output_fn(prediction, content_type):
     pass
 ```
 
-#### Model_fn
+### Model_fn
 
 For model loading, SageMaker calls `model_fn` which loads the model from the directory specified and returns a deserialized Pytorch model.  We can implement the function as:
 
@@ -101,7 +101,7 @@ After loading the model, the next step is request handling, which is broken down
 
 Each step above has a dedicated function that must be implemented in `inference.py`. 
 
-#### Input_fn
+### Input_fn
 
 The `input_fn` takes request data and deserializes it into an object ready for prediction. It receives two arguments when a SageMaker endpoint is Invoked: request body and the content type.  
 
@@ -128,7 +128,7 @@ def input_fn(request_body, content_type='application/json'):
 
 The code above receives a  JSON object, which contains the URL of the image to predict and the content type as arguments. We  perform some transformation on the image and returns a transformed tensor object ready to be passed to `predict_fn`. 
 
-#### Predict_fn
+### Predict_fn
 
 This function takes the transformed input object from `input_fn` and performs an inference against the loaded model.
 
@@ -146,7 +146,7 @@ def predict_fn(input_data, model):
     return ps
 ```
 
-#### Output_fn
+### Output_fn
 
 The `output_fn` serializes the output of the prediction according to the response content type and maps the predicted outputs to classes of objects used in training the model.
 
@@ -170,7 +170,7 @@ def output_fn(prediction_output, accept='application/json'):
 
 ```
 
-Having specified how the SageMaker model server should load and serve  the model,  we create a new Jupiter notebook in the same directory as  `inference.py` with the code below and execute it to  provision the resources.
+Having specified how the SageMaker model server should load and serve the model,  we create a new Jupiter notebook in the same directory as  `inference.py` with the code below and execute it to provision the resources.
 
 ```python
 #filename deploy.ipynb
@@ -196,11 +196,11 @@ At this point, you will have two files: `inference.py` and `deploy.ipynb`  in th
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584745436/Screenshot_2020-03-21_at_00.03.33.png)
 
-If you open `Deploy.ipynb` notebook and  execute the notebook by choosing **Run All** from the **cell menu**, it will deploy the model, as well as the endpoint. 
+If you open `Deploy.ipynb` notebook and execute the notebook by choosing **Run All** from the **cell menu**, it will deploy the model, as well as the endpoint. 
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584740309/Screenshot_2020-03-20_at_11.55.37.png)
 
-On successful deployment, you can make real-time predictions using  [InvokeEndpoint](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_runtime_InvokeEndpoint.html)  by sending a JSON object with a url of image to predict.
+On successful deployment, you can make real-time predictions using  [InvokeEndpoint](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_runtime_InvokeEndpoint.html)  by sending a JSON object with a url of an image to predict.
 
 For example :
 
