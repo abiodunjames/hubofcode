@@ -1,6 +1,11 @@
 ---
 title: What People Don’t Understand About DevOps
 date: 2021-01-26 19:35:00 Z
+categories:
+- Devops
+tags:
+- Devops
+- software
 comment: true
 author: Samuel
 canonical_url: https://medium.com/swlh/what-people-get-wrong-about-devops-535bfe48664e
@@ -12,13 +17,13 @@ But this post is not about buzzwords but rather a word that many people misunder
 
 I get emails from recruiters and companies looking for DevOps engineers all the time. This makes me wonder how different are people’s ideas of DevOps. Needless to say, the countless number of posts that had been written on technology to master to become a DevOps guru. If you’re looking to transition from a backend engineer to a DevOps engineer and vice versa, the internet got the answer for you. Today, no fewer than 7 million results are available on Google when you search the word “DevOps Engineer position.” Companies are waiting for that candidate to be their DevOps god.
 
-At a time in my career, I thought DevOps was another tech role. Five years ago, I remember sitting at an interview and the engineer at the other side of the table popped the question. “What do you understand by DevOps”? I answered it all wrong. I thought it was a role. Retrospectively, DevOps is still a word not many people comprehend.
+At a time in my career, I thought DevOps was another tech role. Five years ago, I remember sitting at an interview and the engineer at the other side of the table popped the question. He said, “What do you understand by DevOps”?  Guess what? I answered it all wrong. I thought it was a role. Retrospectively, DevOps is still a word not many people comprehend.
 
 You might ask, what is DevOps? To understand what DevOps is, we first need to understand what DevOps is not.
 
 ## It’s not a role or a title.
 
-DevOps is not a role you assume after graduating with a CS degree from a top university. Neither a role you’re entitled to after building test automation infrastructure for a company’s product. DevOps is much more than a title conferred on one person.
+DevOps is not a role you assume after graduating with a CS degree from a top university. Neither is a role you’re entitled to after building test automation infrastructure for a company’s product. DevOps is much more than a title conferred on one person.
 
 ## It’s not about tools.
 
