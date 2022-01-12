@@ -19,11 +19,11 @@ author: samuel
 image: https://miro.medium.com/max/1400/1*9s1wWE8H1jSfn-S6n2C49w.png
 ---
 
-Twitter users tweet [500 million tweets](https://www.omnicoreagency.com/twitter-statistics/) per day. The volume of information going through Twitter per day makes it one of the best platforms to get information on any subject of interest. In this post, I’ll walk you through how I built a twitter bot with a brain — powered by machine learning.
+Twitter users tweet [500 million tweets](https://www.omnicoreagency.com/twitter-statistics/) per day. The volume of information going through Twitter per day makes it one of the best platforms to get information on any subject of interest. In this post, I’ll walk you through how I built a Twitter bot with a brain.
 
-According to [a report](https://www.cnet.com/news/new-study-says-almost-15-percent-of-twitter-accounts-are-bots/), there are 48 million bots on twitter — and [hubofml](https://twitter.com/hubofml) happened to be one of those bots. [Hubofml](https://twitter.com/hubofml) started as a simple bot written in Node.Js (on one Sunday evening) running on a free Heroku dyno that tracks specific hashtags like *machinelearning*, *computervision*, and retweet tweets containing those hashtags.
+According to [a report](https://www.cnet.com/news/new-study-says-almost-15-percent-of-twitter-accounts-are-bots/), there are 48 million bots on Twitter — and [hubofml](https://twitter.com/hubofml) happened to be one of these bots. [Hubofml](https://twitter.com/hubofml) started as a simple bot written in Node.Js (on one Sunday evening) running on a free Heroku dyno that tracks specific hashtags like *machinelearning*, *computervision*, and retweet tweets containing those hashtags.
 
-My goal was to use the bot to collate information on machine learning and re-broadcast to people interested in them — after all, some of the best posts I’ve read on machine learning came from links shared on Twitter by the community.
+My goal was to use the bot to collate information on machine learning and re-broadcast to people interested in them — after all, some of the best posts I read on machine learning came from links shared on Twitter by the community.
 
 I thought it would be cool to have a bot that tracks hashtags related to machine learning that I follow to stay informed.
 
@@ -35,11 +35,11 @@ People would write tweets unrelated to machine learning and hashtag “machinele
 
 When we think of spam, it’s easy to see them as unsolicited emails one receives from an unknown person.
 
-As odd as it may seem, spam is not limited to emails alone these days. Spammers now target everything you can think of. From your inbox to comments on social media posts, you’ll will find spam lurking around.
+As odd as it may seem, spam is not limited to emails alone these days. Spammers now target everything you can think of. From your inbox to comments on social media posts, you'll find spam lurking around.
 
 > Personally, I think spam is destructive to communication and undermines the goal of social media.
 
-The rest of the post, I will focus on how I use text categorization to combat spam on Twitter.
+For the rest of the post, I will focus on how I used text categorization to combat spam on Twitter.
 
 Text categorization is the process of automatically assigning one or more predefined categories to a text document. It has a wide range of use cases like articles categorization, spam detection, intent detection, etc.
 
@@ -51,7 +51,7 @@ There are four ways to obtain Twitter public data. Justin Littman wrote an impre
 
 For this task, I used the free (T[witter Standard](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets)) APIs. I downloaded about 110k of tweets datasets from Twitter using a python library called Tweepy.
 
-I annotated the datasets using two labels: “yes” and “no.” All spam tweets were labelled "yes" and non-spam tweets were labelled "no".
+I annotated the datasets using two labels: “yes” and “no.” All spam tweets were labeled "yes" and non-spam tweets were labeled "no".
 
 Spam tweets (in this context) are tweets with no context to the field of machine learning. They are usually about politics, crime, religion, trolling, etc. I retrieved spam tweets based on randomly selected keywords from Wordnet as hashtags.
 
@@ -67,9 +67,9 @@ My next step was to accrue some knowledge about the data and its nature after do
 
 Spam vs Non-spam
 
-The data distribution between the two labels shows that the tweet datasets are highly unbalanced. Unbalanced datasets often have substantial effects on how machine learning models generalize. The model could learn that spam tweets are more predominant, making it natural to leans toward the predominant class during generalization.
+The data distribution between the two labels shows that the tweet datasets are highly unbalanced. Unbalanced datasets often have substantial effects on how machine learning models generalize. The model could learn that spam tweets are more predominant, making it natural to lean toward the predominant class during generalization.
 
-I downsampled the majority class to arrived at an equal number of spam and non-spam (ham) tweets, 10,000 tweets in each class, accounting for a total of 20k tweets in the downsampled dataset.
+I downsampled the majority class to arrive at an equal number of spam and non-spam (ham) tweets, 10,000 tweets in each class, accounting for a total of 20k tweets in the downsampled dataset.
 
 
 
@@ -97,7 +97,7 @@ In addition, tweets also contain common words that are of little value to the co
 
 ## Vocabulary list
 
-A vocabulary list is a dictionary of words having each word in the dataset as key and the number of times they occurred as value.
+A vocabulary list is a dictionary of words having each word in the dataset as a key and the number of times they occurred as value.
 
 A vocabulary list could be:
 
@@ -105,13 +105,13 @@ A vocabulary list could be:
 {"machinelearn":100, "Trump":10, ""}
 ```
 
-I built a vocabulary list of all words, excluding stop-words and words with less than 2 occurrences in the datasets.
+I built a vocabulary list of all words, excluding stopwords and words with less than 2 occurrences in the datasets.
 
 # Tweet Vectorization & Padding
 
 Machine learning models take vectors as input. In order to perform machine learning on text documents, we need to transform text documents into vector representations. This is known as text vectorization.
 
-In my approach, I assigned a unique number to each word the vocabularies. Each tweet is encoded using the unique number assigned to the word. If a word could not be found in the dictionary, its automatically assigned a value of 1 — a value reserved for words that were not found in the vocabulary list.
+In my approach, I assigned a unique number to each word the vocabularies. Each tweet is encoded using the unique number assigned to the word. If a word could not be found in the dictionary, it's automatically assigned a value of 1 — a value reserved for words that were not found in the vocabulary list.
 
 Given the following vocabulary list:
 
@@ -121,11 +121,11 @@ Given the following vocabulary list:
 
 A sentence like “The cat sat on the mat in the morning” will be encoded as [5,1,3,4,5,2,6,5,0 ].
 
-Finally, I used pad sequence to convert variable length sequence to the same size. This is crucial for the network to take in a batch of variable-length sequences.
+Finally, I used pad sequence to convert the variable-length sequence to the same size. This is crucial for the network to take in a batch of variable-length sequences.
 
 # Dataset Splitting
 
-I splitted the datasets into training and test set. A training set is used in learning (fitting the model) and test set for testing how the model generalizes on unseen data. 60% of the dataset was used for training, and 40% was used for testing.
+I split the datasets into training and test set. A training set is used in learning (fitting the model) and a test set for testing how the model generalizes on unseen data. 60% of the dataset was used for training, and 40% was used for testing.
 
 # Model Architecture
 
@@ -135,11 +135,11 @@ RNNs are great, but they suffer from short-term memory. If a tweet is too long, 
 
 I used an LSTM network, a variant of RNN. LSTM avoids the long-term dependency problem by remembering information for long periods. They have internal features called gates that regulate the flow of information in and out of the cell state. There’s an interesting [article](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) on LSTM if you want to know more about how it works.
 
-The network architecture consists of three layers, and it’s bidirectional. A bidirectional network allows inputs to be processed from the first to the last and from the last to the first. This ensures that the network is able to preserve information from both past and future.
+The network architecture consists of three layers, and it’s bidirectional. A bidirectional network allows inputs to be processed from the first to the last and from the last to the first. This ensures that the network is able to preserve information from both the past and future.
 
-The first layer is the embedding layer, which transforms the input vectors into dense embedding vector.
+The first layer is the embedding layer, which transforms the input vectors into dense embedding vectors.
 
-The second layer is the hidden layer, which takes in the dense vector and the previous hidden state to calculate the next hidden state. The final layer takes the final hidden states and feeds it through a fully connected layer, transforming it to the correct output dimension.
+The second layer is the hidden layer, which takes in the dense vector and the previous hidden state to calculate the next hidden state. The final layer takes the final hidden states and feeds them through a fully connected layer, transforming it to the correct output dimension.
 
 You can find more on the architecture in the Jupyter [notebook](https://colab.research.google.com/drive/1cNGoYn-jk3y2hAz8JcZvXtvAtBu-6sgJ?usp=sharing).
 
