@@ -45,7 +45,7 @@ aws s3 cp ./model.tar.gz s3://pytorch-sagemaker-example
 
 ## Create an Inference Handler Script
 
-SageMaker Pytorch model server allows you to configure how you deserialized your  saved model (`model.pth`)  and how you transform request calls to inference calls on the loaded model. 
+SageMaker Pytorch model server allows you to configure how you deserialized your saved model (`model.pth`)  and how you transform request calls to inference calls on the loaded model. 
 
 These configurations are provided in the form of a python script that implements four functions: `model_fn`, `input_fn`, `predict_fn` and `output_fn`.
 
@@ -126,7 +126,7 @@ def input_fn(request_body, content_type='application/json'):
 
 ```
 
-The code above receives a  JSON object, which contains the URL of the image to predict and the content type as  arguments. We  perform some transformation on the image and returns a transformed tensor object ready to be passed to `predict_fn`. 
+The code above receives a  JSON object, which contains the URL of the image to predict and the content type as arguments. We  perform some transformation on the image and returns a transformed tensor object ready to be passed to `predict_fn`. 
 
 #### Predict_fn
 
