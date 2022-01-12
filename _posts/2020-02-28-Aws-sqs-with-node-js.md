@@ -41,16 +41,16 @@ FIFO queues offer First-In-First-Out delivery, and only one copy of your message
 | Tables         | Standard Queue                                               | FIFO                                                         |
 | :------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | Throughput     | Nearly unlimited number of transactions per API action       | Up to 300 messages per second (300 send, receive, or delete operations per second). |
-| Delivery       | Messages may be delivered once and occasionally more than 1 copy of a message is delivered | A message is delivered once and remains available until  it's processed and deleted |
-| Delivery Order | Occassionally, messages might be delivered out of order      | Messages are delivered based on the order they were sent     |
+| Delivery       | Messages may be delivered once and occasionally more than 1 copy of a message is delivered | A message is delivered once and remains available until it's processed and deleted |
+| Delivery Order | Occasionally, messages might be delivered out of order      | Messages are delivered based on the order they were sent     |
 
 ## What Queue Type Should I Use
 
-You should use standard queues as long your application can process messages that arrive out of order and once. For example, you want to resize images after upload.
+You should use standard queues as long as your application can process messages that arrive out of order and once. For example, you want to resize images after upload.
 
 On the other hand, you should use FIFO queues if your application can not tolerate duplicates and out-of-order delivery. 
 
-For example, you want to prevent customers from being debited twice after an order is placed or preventing students from enrolling in a course before the registration task is processed.
+For example, you want to prevent customers from being debited twice after an order is placed or prevent students from enrolling in a course before the registration task is processed.
 
 ## Creating a Queue
 
@@ -174,8 +174,8 @@ app.start()
 
 Please note that:
 
-* `sqs-consumer` polls your queue continously using long polling.
-* Your message will be deleted in the queue once the handler function has completed successfully.
+* `sqs-consumer` polls your queue continuously using long polling.
+* Your message will be deleted in the queue once the handler function has been completed successfully.
 * By default, messages are processed at a time.  You can process messages in parallel by using the batch option.
 
 
