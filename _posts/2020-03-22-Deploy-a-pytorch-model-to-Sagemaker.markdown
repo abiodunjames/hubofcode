@@ -55,10 +55,17 @@ Let's  start a  Jupyter notebook instance on SageMaker in the same region as the
 
 ```python
 # filename: inference.py
-def model_fn(model_dir)
-def input_fn(request_body, request_content_type)
-def predict_fn(input_data, model)
-def output_fn(prediction, content_type)
+def model_fn(model_dir):
+    pass
+
+def input_fn(request_body, request_content_type):
+    pass
+
+def predict_fn(input_data, model):
+    pass
+
+def output_fn(prediction, content_type):
+    pass
 ```
 
 #### Model_fn
