@@ -14,5 +14,5 @@ At the moment, I'm a Head of Engineering at [TIER](https://tier.app/), where we'
 If you want to get in touch, shoot me a  <a href ="mailto:james@hubofco.de">mail</a>
 
 ### Want to chat with me?
-If you'd like to spend 30-mins talking through with me regarding my experience, perspective, opportunities, and more, book [a slot on Calendly here](https://calendly.com/abiodunjames)!
+If you'd like to spend 30-mins talking through with me regarding my experience, perspective, opportunities, and more, book [a slot here](https://calendly.com/abiodunjames)!
 
