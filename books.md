@@ -17,6 +17,7 @@ Every month, I publish a new issue that includes links to interesting articles, 
 # FAQS
 
 **How often will I receive the newsletter?**
+
 You will receive the newsletter at the beginning of each month. Each newsletter includes a link to the last. You can unsubscribe at any time should you need to?
 
 **What topics does the newsletter cover?**
