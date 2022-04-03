@@ -1,9 +1,8 @@
 ---
-layout: page
-permalink: /archive/
 title: Posts Archive
+permalink: "/archive/"
+layout: page
 ---
-
 
 <div id="archives">
   <section id="archive">
