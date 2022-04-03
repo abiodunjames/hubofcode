@@ -9,7 +9,6 @@ tags:
 - softwareleads
 ---
 
-> Originally published on [www.leaddev.com](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead).
 
 As you develop your technical skills, you get to a point where you develop incredible confidence about your ability to deliver irrespective of any technical challenge thrown at you.
 
@@ -88,3 +87,6 @@ Management is now a part of your job. Rather than simply handing off anything th
 ### **Reflections**
 
 The transition from IC to tech lead is never easy, and every journey is unique. There’s no manual and you’ll need to figure things out as you go. Take time to read, experiment, learn, and reflect. You will make mistakes, but what matters most is learning from them. That’s how you’ll grow as a leader.
+
+<hr/>
+> Originally published on [www.leaddev.com](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead).
