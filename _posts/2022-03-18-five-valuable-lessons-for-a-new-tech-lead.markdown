@@ -1,5 +1,5 @@
 ---
-title: Five valuable lessons for a new tech lead
+title: Five Valuable Lessons for a New Tech Lead
 date: 2022-03-18 09:53:00 Z
 categories:
 - leadership
