@@ -81,7 +81,7 @@ On average, it’s estimated that it takes 3-5 months for a new engineer to be p
 
 An effective onboarding for engineers should not ignore tech. So, ensure your tech onboarding helps new hires understand:
 
-*   How does software gets shipped
+*   How software gets shipped
     
 *   What are the technical expectations from the role
     
