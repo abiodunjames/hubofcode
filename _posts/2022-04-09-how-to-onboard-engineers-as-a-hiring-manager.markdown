@@ -34,13 +34,13 @@ Candidates drop out at every stage of the hiring funnel. For a very strong talen
 
 You should leverage the notice period to continue to build on the candidate’s excitement about your company, your team, and how you work. My strategies include reaching out to them a week after an offer is signed to share our excitement in a mail.
 
-As the notice period draws to a close, reach out to see if they need any assistance and make use of the opportunity to send your onboarding guide to the candidate to help them prepare ahead.
+As the notice period draws to a close, I reach out to see if they need any assistance and make use of the opportunity to send your onboarding guide to the candidate to help them prepare ahead.
 
 ## Have a comprehensive written down onboarding guide
 
 One of the few elements of engineering onboarding that I found to be important when onboarding engineers is having a written down onboarding guide. PowerPoint presentations should not replace a written down employee onboarding guide that new hires can refer to from time to time. Nothing scales better than words written down because it's always available when people aren't.
 
-Your onboarding guide should help a candidate help answer the following questions:
+Your onboarding guide should help candidates answer the following questions:
 
 *   What’s the team’s culture like?
     
