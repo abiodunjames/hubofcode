@@ -7,6 +7,8 @@ tags:
 - techlead
 - engineeringmanager
 - softwareleads
+author: James Samuel
+comments: true
 ---
 
 
