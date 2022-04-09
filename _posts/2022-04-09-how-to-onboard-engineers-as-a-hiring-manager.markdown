@@ -131,7 +131,7 @@ New hires may find it difficult to ask for support and may struggle silently. Th
 
 I follow structured check-ins with new hires as follows:  
 
-1.  Check-in after 2 weeks of joining.
+1.  Check-in after 2 weeks of joining
     
 2.  Check-in after 30 days
     
