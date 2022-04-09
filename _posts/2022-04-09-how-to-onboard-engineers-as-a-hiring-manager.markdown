@@ -123,7 +123,7 @@ When I onboard engineers, I break down onboarding expectations into 6 categories
 
 ## Conduct regular check-ins
 
-When I joined [Architrave](https://architrave.de/)), I relocated from Nigeria to Germany. Fortunately, I had an amazing people team and a fantastic manager who conducted a series of check-ins with me during my first few months.
+When I joined [Architrave](https://architrave.de/), I relocated from Nigeria to Germany. Fortunately, I had an amazing people team and a fantastic manager who conducted a series of check-ins with me during my first few months.
 
 The check-ins helped me receive early feedback and helped me navigate the change. The check-ins left a positive impression on me even after leaving the company. My onboarding period at Architrave made me realize the importance of frequent check-ins with new hires.
 
