@@ -8,7 +8,7 @@ tags:
 - onboarding
 - hiringmanager
 author: James Samuel
-comment: 
+comments: true
 ---
 
 
