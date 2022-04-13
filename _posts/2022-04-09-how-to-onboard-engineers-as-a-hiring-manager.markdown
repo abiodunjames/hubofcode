@@ -11,12 +11,11 @@ author: James Samuel
 comments: true
 ---
 
+While every organization has its own way of onboarding engineers, there are few elements that will make any engineering onboarding effective. In this post, I share thoughts I have adopted that govern how I onboard engineers into my teams.
 
 Engineering onboarding entails communicating your company's expectations, such as technical, process, product, cultural, and professional, to new hires in a way that makes the knowledge useful and practical.
 
 The time it takes for a new engineer to be a productive member of a team is a function of how effective your onboarding process is.
-
-While every organization has its own way of onboarding engineers, there are few elements that will make any engineering onboarding effective. In this post, I share thoughts I have adopted that govern how I onboard engineers into my teams.
 
 I do realize there is a lot that goes into onboarding a new engineer. Usually, there are roles played by Procurement, HR team, and more. Usually, an HR onboarding will contain training programs designed to help new hires get acquainted with a company and its culture.
 
