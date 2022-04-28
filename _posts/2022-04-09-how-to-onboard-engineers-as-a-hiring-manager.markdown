@@ -17,9 +17,7 @@ Engineering onboarding entails communicating your company's expectations, such a
 
 The time it takes for a new engineer to be a productive member of a team is a function of how effective your onboarding process is.
 
-I do realize there is a lot that goes into onboarding a new engineer. Usually, there are roles played by Procurement, HR team, and more. Usually, an HR onboarding will contain training programs designed to help new hires get acquainted with a company and its culture.
-
-The HR onboarding is usually generalized and may not include engineering onboarding. As a result, the focus of this post will be on onboarding from the standpoint of a hiring manager.
+I do realize there is a lot that goes into onboarding a new engineer. Usually, there are roles played by Procurement, HR team, and more. Usually, an HR onboarding will contain training programs designed to help new hires get acquainted with a company and its culture. The HR onboarding is usually generalized and may not include engineering onboarding. As a result, the focus of this post will be on onboarding from the standpoint of a hiring manager.
 
 ## Start from the hiring manager’s interview.
 
@@ -33,7 +31,7 @@ Candidates drop out at every stage of the hiring funnel. For a very strong talen
 
 You should leverage the notice period to continue to build on the candidate’s excitement about your company, your team, and how you work. My strategies include reaching out to them a week after an offer is signed to share our excitement in a mail.
 
-As the notice period draws to a close, I reach out to see if they need any assistance and make use of the opportunity to send your onboarding guide to the candidate to help them prepare ahead.
+As the notice period draws to a close, I reach out to see if they need any assistance and make use of the opportunity to send our onboarding guide to the candidate to help them prepare ahead.
 
 ## Have a comprehensive written down onboarding guide
 
