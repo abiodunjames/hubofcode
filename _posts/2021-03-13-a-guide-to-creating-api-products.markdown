@@ -13,8 +13,6 @@ comments: true
 
 ![API Products](https://res.cloudinary.com/samueljames/image/upload/c_scale,w_200/v1615721592/ApI.png)
 
-> Originally published by me on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
-
 Building a good Application Programming Interface (API) is more than returning responses. Being a developer and having integrated with tons of APIs, I have noticed a pattern between successful API products and those that are not. It’s about solving problems with great affordance. One might ask the key to building good API products. In this post, I’ll provide some tips that I have found essential when doing so.
 
 After landing my first software engineer role seven years ago, my first big project was building an online book marketplace. In the project, I integrated with multiple Application Programming Interfaces (API). From pre-filling book information using an International Standard Book Number (ISBN) to charging customer credit cards, integration with APIs was key to this project.
@@ -92,3 +90,5 @@ APIs are meant to be simple, they hide complexities and do not expose them. I li
 Building a good API is more than accepting requests and returning responses. That’s far from the goal. It’s about solving problems with great affordance.  You have to align usability with purpose continuously.  It’s important to note that people will use your API differently. There will be different problems people use your API to solve. You can’t change that. What you can not do is be everything to everyone.
 
 Finally, you have to go out there and let developers understand your products’ benefits by connecting with them at various events. You have to let them see how your products make their lives easier. The tech community is competitive. It’s no longer a matter of *if you build it, they will come*.  But instead, *build, take it to them and beyond*.
+
+> Originally published by me on [www.mindtheproduct.com](https://www.mindtheproduct.com/a-guide-to-creating-api-products/), \[03/02/2021\].
