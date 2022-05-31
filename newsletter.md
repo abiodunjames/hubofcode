@@ -3,7 +3,7 @@ title: Books
 permalink: "/books/"
 ---
 
-Every now and then, I come across exceptional books that have influenced my career. I've compiled a short list of what I consider to be "must-reads" below. I'll keep adding to this list as I learn new stuff.
+Every now and then, I come across exceptional books that influence my career. I've compiled a shortlist of what I consider to be "must-reads" below. I'll keep adding to this list as I learn new stuff.
 <hr/>
 
 - [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://amzn.to/3fjVzy9)
