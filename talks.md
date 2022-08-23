@@ -5,6 +5,8 @@ author: Samuel
 layout: post
 ---
 
+[LeadDev Berlin 2022](https://leaddev.com/leaddev-berlin/agenda)
+
 [API Conference - Berlin 2021](https://speakerdeck.com/abiodunjames/building-api-products)
 
 [Build Quality into Software From Day 1](https://www.slideshare.net/SamuelJames16/building-quality-into-software-from-day-1)
