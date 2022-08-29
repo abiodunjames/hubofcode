@@ -5,7 +5,7 @@ author: Samuel
 layout: post
 ---
 
-[CTO Craft Conference 2022] (https://ctocraft.com/blog/winter-is-coming-announcing-cto-craft-con-3-nov-2021/)
+[CTO Craft Conference 2022](https://ctocraft.com/blog/winter-is-coming-announcing-cto-craft-con-3-nov-2021/)
 
 [LeadDev Berlin 2022](https://leaddev.com/leaddev-berlin/agenda)
 
