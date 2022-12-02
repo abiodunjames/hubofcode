@@ -5,6 +5,11 @@ author: Samuel
 layout: post
 ---
 
+
+[Tech Leadership MeetUp – Cape Town](https://www.meetup.com/tech-leadership-meetup/events/289883602/)
+
+[Stretch Leadership and Management Conference Budapest 2022](https://stretchcon.com/)
+
 [CTO Craft Conference 2022](https://ctocraft.com/blog/winter-is-coming-announcing-cto-craft-con-3-nov-2021/)
 
 [LeadDev Berlin 2022](https://leaddev.com/leaddev-berlin/agenda)
