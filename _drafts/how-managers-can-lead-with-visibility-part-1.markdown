@@ -26,7 +26,7 @@ You need to get both quantitative and qualitative data that will help you:
     
 -   Understand if the folks (users) you’re building for are getting value and deriving satisfaction from what you’re building – **Product**
     
-
+![](https://hubofco.de/uploads/Pillars.jpg)
   
 
 # Process – Understanding how your team is building what they’re building
@@ -163,4 +163,3 @@ When we saw deployment frequency trending downwards or upwards, I would ask ques
 In one of the review meetings with engineering leads, deployment frequency was trending downward. As I sat down with the them to understand the root cause and how I could better support them, we saw that there were issues with our deployment infrastructure. The infrastructure team made changes to the base infrastructure that this team was yet to update to.
 
 Most of the engineers in this team were new and had missed out on comms that had gone out earlier on why the team should upgrade. On finding the root cause, we were able to take a more actionable step, work together with the infrastructure team and get the support needed.
-
