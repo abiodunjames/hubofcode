@@ -34,7 +34,7 @@ You need to get both quantitative and qualitative data that will help you:
     
 -   Understand if the folks (users) you’re building for are getting value and deriving satisfaction from what you’re building – **Product**
     
-![](https://hubofco.de/uploads/Pillars.jpg)
+![Framework for leading with visibility](https://hubofco.de/uploads/Pillars.jpg)
   
 
 # Process – Understanding how your team is building what they’re building
@@ -127,6 +127,7 @@ You should use 1-on-1s to pick signals of things going well or not going well in
 Here is an example of a conversation with a report.
 
 ***Manager**: What do you think about how project XYZ is going?
+
 **Report**: Well, it's going fine except that we underestimated the project. There was ABC we didn't think about or account for when we committed to the project. To do XYZ, we need to do ABC which will take 3 more weeks. In fact we don’t even know if it can be done yet. We're currently undertaking tech discovery on how to do ABC.*
 
  
