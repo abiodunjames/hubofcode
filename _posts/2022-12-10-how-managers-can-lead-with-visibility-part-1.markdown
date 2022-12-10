@@ -1,6 +1,14 @@
 ---
 title: How managers can lead with visibility – Part 1
 date: 2022-12-10 10:09:00 Z
+categories:
+- SoftwareEngineering
+- EngineeringManagement
+tags:
+- leadership
+- engineeringmanager
+- management
+- visibility
 ---
 
 Managers’ roles and responsibilities come in different forms and shapes, but one thing is clear: if you’re a manager, you’re there to get better outcomes from the people you work with. To be able to get better outcomes from the people you lead, you need to be able to understand what is happening in that team. To be better put, you need to have visibility into that team.
