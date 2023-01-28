@@ -1,6 +1,13 @@
 ---
 title: How to build a high-performing core team
 date: 2023-01-28 12:00:00 Z
+categories:
+- leadership
+- high-performing
+- EngineeringManagement
+tags:
+- management
+- softwareleads
 ---
 
 How do I build a high-performing team?  
