@@ -12,7 +12,10 @@ tags:
 
 How do I build a high-performing team?  
 
+![aligned team](https://res.cloudinary.com/samueljames/image/upload/v1674910958/aligned_vs_mis-aligned_team.png)
+
 This is one of the common questions managers ask themselves. No one wants a low-performing team. We all want to build effective and high-performing teams – a team that is highly interdependent, bound with a common goal, plans work, makes decisions, solves problems and delivers superior results.
+
 
 But you can't just pull a bunch of people together in a room and expect outstanding performance.
 
