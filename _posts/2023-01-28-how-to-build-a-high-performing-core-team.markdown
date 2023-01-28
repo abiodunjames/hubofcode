@@ -142,4 +142,4 @@ As a leader, it's your responsibility to build an environment that doesn't make 
 
  
 
-In summary, building high-performing teams will take time to happen. It's through deliberate effort but it’s worth it. To build high-performing teams, hire strong talents, empower them, create synergy and a culture of learning and improvement.
+In summary, building high-performing teams will take time to happen. It's through deliberate effort but it’s worth it. To build high-performing teams, hire strong talents, empower them, create synergy and build a culture of learning and improvement.
