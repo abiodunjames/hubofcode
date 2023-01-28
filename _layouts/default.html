@@ -1,65 +1,65 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo title=false %}
-    {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  {% include meta.html %}
 
-    <meta name="theme-color" content="#673AAC">
-    <meta property="og:url" content="http://hubofco.de" />
-	<meta property="og:site_name" content="Samuel James - Software Engineer" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Senior Software Engineer Berlin, Germany Backend Engineer Berlin, Teach Lead Germany " />
-	<meta property="og:description" content="Samuel Abiodun James Personal Blog on Software Engineering" />
-    <script type="text/javascript">
-      var host = "www.hubofco.de";
-      if ((host == window.location.host) && (window.location.protocol != "https:"))
-          window.location.protocol = "https";
-    </script>
-  </head>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-  <body>
-    <div id="bar"></div>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  <meta name="theme-color" content="#673AAC">
+  <meta property="og:url" content="http://hubofco.de" />
+  <meta property="og:site_name" content="Hubofcode" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <script type="text/javascript">
+    var host = "www.hubofco.de";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+</head>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p> 
-          </div>
+<body>
+  <div id="bar"></div>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/talks">Talks</a>
-            <a href="{{ site.baseurl }}/books">Books</a>
-            <a href="{{ site.baseurl }}/newsletter">Newsletter</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-
-      <div class="wrapper-main">
-        <div id="main" role="main" class="container">
-          {{ content }}
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
         </div>
-      </div>
 
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            {% include svg-icons.html %}
-          </footer>
-        </div>
+        <nav>
+          <a href="{{ site.baseurl }}/">Home</a>
+          <a href="{{ site.baseurl }}/talks">Talks</a>
+          <a href="{{ site.baseurl }}/books">Books</a>
+          <a href="{{ site.baseurl }}/newsletter">Newsletter</a>
+          <a href="{{ site.baseurl }}/about">About</a>
+        </nav>
+      </header>
+    </div>
+
+    <div class="wrapper-main">
+      <div id="main" role="main" class="container">
+        {{ content }}
       </div>
     </div>
 
-    {% include analytics.html %}
-  </body>
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  {% include analytics.html %}
+</body>
+
 </html>
