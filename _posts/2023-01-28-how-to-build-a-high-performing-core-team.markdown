@@ -100,18 +100,13 @@ One of the best ways I have seen this play out is having a "default open" cultur
 
 Invented by psychologist Bruce Tuckman, a team goes through [four stages of psychological development](https://www.sixsigmadaily.com/what-is-forming-storming-norming-performing/#:~:text=The%20concept%20of%20Forming%2C%20Storming,on%20accomplishing%20a%20shared%20goal.) known as forming, storming, norming and performing. For a team to get to the performing stage, there has to be a lot of mistakes and learnings along the way.
 
-  
-
 A high-performing team is not formed in a day. High-performing teams go through periods when they're low performing. It's through mistakes and learning from those mistakes that make the team become better and better as days go by.
-
-  
 
 A team that reflects on how to become more effective and then tunes and adjusts its way of working gets better as time passes.
 
   
 
 As Jocko and Leif stated in their book titled the dichotomy of leadership:
-
   
 
 >No team can deliver flawless performance. No one can achieve perfection. What makes the best team great is that when they make mistakes, they acknowledge them, take ownership and make corrections to upgrade their performance. With each iteration, they enhance its performance.
@@ -136,10 +131,6 @@ This is where psychological safety plays a crucial role.
 
 Psychology safety is the belief that you have the freedom to speak your mind without being punished for that. Such belief is rooted in deep trust between peers and leadership. In a software team with high psychological safety, members are more open to taking risks, trying new ways and not afraid to fail. It's this tolerance for mistakes and risks that allows the team to be more innovative, develop muscle to try new things, fail quickly and learn.
 
-  
-
 As a leader, it's your responsibility to build an environment that doesn't make people feel they can't freely share their opinions but also an environment that lets them feel their opinions are welcome and you love to hear them.
-
- 
 
 In summary, building high-performing teams will take time to happen. It's through deliberate effort but it’s worth it. To build high-performing teams, hire strong talents, empower them, create synergy and build a culture of learning and improvement.
