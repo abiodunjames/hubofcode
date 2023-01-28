@@ -134,3 +134,5 @@ Psychology safety is the belief that you have the freedom to speak your mind wit
 As a leader, it's your responsibility to build an environment that doesn't make people feel they can't freely share their opinions but also an environment that lets them feel their opinions are welcome and you love to hear them.
 
 In summary, building high-performing teams will take time to happen. It's through deliberate effort but it’s worth it. To build high-performing teams, hire strong talents, empower them, create synergy and build a culture of learning and improvement.
+
+<iframe src="https://softwareleads.substack.com/embed" width="100%" height="320" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
