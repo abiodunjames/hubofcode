@@ -1,5 +1,5 @@
 ---
-title: How to build a high-performing core team
+title: How to build a high-performing software team
 date: 2023-01-28 12:00:00 Z
 categories:
 - leadership
