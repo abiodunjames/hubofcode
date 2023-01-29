@@ -1,13 +1,11 @@
 ---
 title: How to build a high-performing software team
 date: 2023-01-28 12:00:00 Z
-categories:
-- leadership
-- high-performing
-- EngineeringManagement
 tags:
 - management
 - softwareleads
+- high-performing
+- leadership
 description: But you can't just pull a bunch of people together in a room and expect
   outstanding performance. To build high-performing teams, hire strong talents, empower
   them, create synergy and build a culture of learning and improvement.
