@@ -5,6 +5,7 @@ author: Samuel
 layout: post
 ---
 
+[WeAreDevelopers World Congress 2023 – Berlin](https://www.wearedevelopers.com/) – [Slides](https://speakerdeck.com/abiodunjames/building-high-performing-software-teams)
 
 [Tech Leadership MeetUp – Cape Town](https://www.meetup.com/tech-leadership-meetup/events/289883602/)
 
