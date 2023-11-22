@@ -11,6 +11,7 @@ tags:
 author: Samuel
 ---
 
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37afe623-fe1c-4a38-97a1-2fb88f9b5566_1644x644.png)
 
 A few months ago, I spoke at the WeAreDevelopers World Congress on [building high-performing software teams](https://speakerdeck.com/abiodunjames/building-high-performing-software-teams). The feedback from that talk has been overwhelming, and I'm thrilled it resonated with many people. In this post, I will unpack one of the key points I discussed: empowering your team and getting out of the way.
 
