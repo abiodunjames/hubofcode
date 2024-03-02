@@ -25,10 +25,6 @@ Have you ever been on a team that’s stuck? A team where everyone is moving in 
 
 If you notice several of the above, it's an indication that the team lacks clarity of direction. Where there is no clarity, a different narrative ensues. If you’re a manager, one of the most important things you can do is drive clarity of purpose, direction, plan, and responsibilities.  
 
-Effective Software Leads is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
-
-Subscribed
-
 I have come to believe that clarity in the context of software development is about giving people a practical North Star to guide their thinking and actions in the right direction, even when the conditions get cloudy. I have to admit, it took me a while to learn how important this is when you lead engineering teams.
 
 A team is a function of its environment. If the environment a team is operating in lacks clarity on its purpose, structure, expectations, and boundaries, it becomes really difficult to achieve sustained high performance.
