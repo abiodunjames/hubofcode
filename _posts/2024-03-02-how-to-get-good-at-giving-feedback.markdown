@@ -54,8 +54,7 @@ Before diving in, ensure the recipient is open to hearing your thoughts. When yo
   
 A simple question like “Can I share some feedback with you?” can do wonders.
 
-###   
-2. Describe the behavior or action
+### 2. Describe the behavior or action
 
 Avoid judging intentions. As a feedback giver, your job is not to judge the intentions of others. You’re not in a position to put a label on the action. Your role is to express the impact their actions had on you, the team, or the project.  
   
@@ -92,8 +91,7 @@ Example:"
 
 If the feedback is negative, suggest what could be done differently in the future. If it’s positive, express appreciation and encourage continued behavior.
 
-##   
-Building trust is key
+## Building trust is key
 
 Trust is like the air we breathe; when it's present, nobody really notices; when it's absent, everybody notices. – Warren Edward Buffett.
 
