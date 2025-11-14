@@ -4,7 +4,7 @@ date: 2025-11-14 07:22:00 Z
 tags:
 - inclusive engineering
 - building for the billions
-- building for global audience
+- building for a global audience
 comment: true
 canonical_url: https://softwareleads.substack.com/p/why-building-for-the-20-of-leave
 ---
