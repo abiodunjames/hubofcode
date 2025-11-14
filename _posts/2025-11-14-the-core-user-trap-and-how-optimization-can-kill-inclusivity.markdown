@@ -9,8 +9,6 @@ comment: true
 canonical_url: https://softwareleads.substack.com/p/why-building-for-the-20-of-leave
 ---
 
-[(https://substackcdn.com/image/fetch/$s_!LTjN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249fae5a-1c29-4f6a-885c-1f281e99fe0c_4135x1575.png)
-
 ![](https://substackcdn.com/image/fetch/$s_!LTjN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249fae5a-1c29-4f6a-885c-1f281e99fe0c_4135x1575.png)
 
 Over the past few years, I’ve led growth product teams focusing on retention and growing daily active users (DAU). Working on a myriad of challenges aimed at widening access to a global audience has deeply reshaped my understanding of inclusivity and what it truly means to build for a global audience and leave no one behind.
