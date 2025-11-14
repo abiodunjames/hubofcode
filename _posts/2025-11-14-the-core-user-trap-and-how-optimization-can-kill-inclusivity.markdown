@@ -1,5 +1,5 @@
 ---
-title: The core user trap and how optimization can kill Inclusivity
+title: The core user trap and how optimising for them kills Inclusivity
 date: 2025-11-14 07:22:00 Z
 tags:
 - inclusive engineering
