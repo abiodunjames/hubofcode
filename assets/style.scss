@@ -152,10 +152,9 @@ a {
   }
 }
 
-/* Content links - subtle underline */
-.entry a,
-.post .entry a,
-article a:not(.read-more):not(.post-tags a) {
+/* Content links - subtle underline (exclude headings, read-more, tags) */
+.entry a:not(h1 a):not(h2 a):not(h3 a):not(h4 a),
+.post .entry a:not(h1 a):not(h2 a):not(h3 a):not(h4 a) {
   text-decoration: underline;
   text-decoration-color: rgba($accent, 0.3);
   text-underline-offset: 2px;
@@ -163,6 +162,13 @@ article a:not(.read-more):not(.post-tags a) {
   &:hover {
     text-decoration-color: $accent;
   }
+}
+
+/* Ensure heading links are never underlined */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+article header a,
+.post h2 a {
+  text-decoration: none !important;
 }
 
 /* Lists */
