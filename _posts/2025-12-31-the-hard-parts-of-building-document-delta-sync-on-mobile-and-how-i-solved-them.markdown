@@ -35,7 +35,7 @@ The easy answer would have been to simply upload files, or download updates once
 - What about iCloud, which isn’t even a REST API?
 
 This is the story of how I built a sync engine that handles all of this.
-!(images)[/uploads/Keeplys-_02.png]
+![images](/uploads/Keeplys-_02.png)
 
 
 ### Implementation guiding principles
