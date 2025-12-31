@@ -33,8 +33,8 @@ The easy answer would have been to simply upload files, or download updates once
 - What if someone deletes the parent cloud folder used for backup (Keeplys) directly from Google Drive’s web interface?
 - What about iCloud, which isn’t even a REST API?
 
-This is the story of how I built a sync engine that handles all of this.
-![images](/uploads/Keeplys-_02.png)
+This is a story of how I built a sync engine that handles all of this.
+![images](/uploads/Screenshot%202025-12-31%20at%2021.39.37.png)
 
 
 ### Implementation guiding principles
