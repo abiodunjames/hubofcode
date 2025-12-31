@@ -1,29 +1,42 @@
 ---
-title: About
+title: About Samuel James - Engineering Manager & Technical Writer
 permalink: "/about/"
-layout: page
+author: Samuel James
+layout: post
+description: "Samuel James is an Engineering Manager at Reddit with expertise in software engineering, team building, DevOps, and cloud architecture. Learn about his background and connect."
+image: /images/logo.png
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, I'm [Samuel James](https://www.linkedin.com/in/samuel-james-abiodun/) (also known as James Samuel Abiodun). I build and scale software teams.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## What I Do
 
-## Features
+I'm an **Engineering Manager at [Reddit](https://www.redditinc.com/)**, where we're bringing community and belonging to everyone. My experience spans multiple industries:
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- **FinTech** - Building secure, scalable financial systems
+- **EduTech** - Creating impactful learning platforms
+- **PropTech** - Developing innovative property technology solutions
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## What I Write About
+
+On this blog, I share insights on:
+
+- **Engineering Leadership** - How to build and lead high-performing engineering teams
+- **Software Engineering** - Best practices, clean code, and system design
+- **DevOps & Cloud** - AWS, GCP, serverless architecture, and infrastructure
+- **Machine Learning** - Practical ML applications and deployments
+
+## Get in Touch
+
+If you want to get in touch, shoot me an <a href="mailto:james@hubofco.de">email</a>.
+
+### Want to chat?
+
+If you'd like to spend 30 minutes talking through my experience, perspective, opportunities, or anything else, [book a slot here](https://calendly.com/abiodunjames)!
+
+## Connect With Me
+
+- **LinkedIn**: [samuel-james-abiodun](https://www.linkedin.com/in/samuel-james-abiodun/)
+- **Twitter/X**: [@samueljabiodun](https://twitter.com/samueljabiodun)
+- **GitHub**: [abiodunjames](https://github.com/abiodunjames)
+- **Email**: [james@hubofco.de](mailto:james@hubofco.de)

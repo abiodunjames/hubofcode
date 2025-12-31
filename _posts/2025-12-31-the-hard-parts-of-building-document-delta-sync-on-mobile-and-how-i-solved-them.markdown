@@ -48,9 +48,9 @@ Previously, as an engineer and now a manager, I’ve come to understand the powe
 
 #### The app must work perfectly offline
 
-    Cloud sync is a feature and never should it be a dependency. Users should never see a loading spinner waiting for the sync.
+Cloud sync is a feature and never should it be a dependency. Users should never see a loading spinner waiting for the sync.
 
-  This means:
+This means:
 
   - Documents are saved locally first, always
   - Sync happens asynchronously in the background
@@ -58,16 +58,17 @@ Previously, as an engineer and now a manager, I’ve come to understand the powe
 
 #### Cloud deletion shouldn’t interfere with what is stored locally
 
-  The most dangerous operation in any sync system is delete. Google Drive and iCloud should never silently delete local data.
+The most dangerous operation in any sync system is delete. Google Drive and iCloud should never silently delete local data.
 
-  If a user deletes a file from Google Drive’s web interface, it shouldn’t mirror that action locally. Instead, the document should be marked as *unsynced* and the user should decide what to do.
+If a user deletes a file from Google Drive’s web interface, it shouldn’t mirror that action locally. Instead, the document should be marked as *unsynced* and the user should decide what to do.
 
 #### Drive agnostic
-    I want to leave room for extension. The first iteration supports Google Drive and iCloud, but I want to allow for other providers like Dropbox, Box, etc. To support this, the design must be drive agnostic. I designed a single sync engine that talks to a `DriveProvider` interface.
+
+I want to leave room for extension. The first iteration supports Google Drive and iCloud, but I want to allow for other providers like Dropbox, Box, etc. To support this, the design must be drive agnostic. I designed a single sync engine that talks to a `DriveProvider` interface.
 
 #### Documents should have observable state
 
-    Documents should have visible sync status: synced, pending, conflict, or unsynced. Users should always know what’s happening.
+Documents should have visible sync status: synced, pending, conflict, or unsynced. Users should always know what’s happening.
 
 
 
