@@ -2,38 +2,97 @@
 layout: default
 ---
 
-<article class="post detailed">
-  <h1>{{ page.title }}</h1>
+{% include article-schema.html %}
 
-  <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
-    {% endif %}
-    <div class="post-tags">
-      {% if post %}
-        {% assign tags = post.tags %}
-      {% else %}
-        {% assign tags = page.tags %}
+<article class="post detailed" itemscope itemtype="https://schema.org/BlogPosting">
+  <header>
+    <h1 itemprop="headline">{{ page.title }}</h1>
+
+    <div class="post-meta">
+      <p class="author_title">
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <a itemprop="url" href="{{ site.baseurl }}/about">
+            <span itemprop="name">{{ site.author }}</span>
+          </a>
+        </span>
+        · 
+        <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %e, %Y" }}
+        </time>
+      </p>
+      {% if page.last_modified_at %}
+      <p class="author_title">
+        <time itemprop="dateModified" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+          (Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})
+        </time>
+      </p>
       {% endif %}
-      {% for tag in tags %}
-        <a href="#">{{tag}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+      
+      <div class="post-tags" itemprop="keywords">
+        {% if post %}
+          {% assign tags = post.tags %}
+        {% else %}
+          {% assign tags = page.tags %}
+        {% endif %}
+        {% for tag in tags %}
+          <a href="{{ site.baseurl }}/categories/#{{ tag | slugify }}" rel="tag">{{ tag }}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </div>
+      
+      {% if page.content %}
+      <meta itemprop="wordCount" content="{{ page.content | number_of_words }}">
+      {% endif %}
     </div>
-  </div>
+  </header>
     
-  <div class="entry">
+  <div class="entry" itemprop="articleBody">
     {{ content }}
   </div>
 
-  <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
-  </div>
-
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
+  <footer class="post-footer">
+    <div class="share-section">
+      <p>
+        <span class="share-box">Share:</span> 
+        <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url | url_encode }}&via={{ site.twitter.username }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           aria-label="Share on Twitter">Twitter</a>, 
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url | url_encode }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           aria-label="Share on LinkedIn">LinkedIn</a>,
+        <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url | url_encode }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           aria-label="Share on Facebook">Facebook</a>
+      </p>
+    </div>
+    
+    <!-- Related Posts -->
+    {% if page.categories.size > 0 %}
+    <div class="related-posts">
+      <h3>Related Articles</h3>
+      <ul>
+        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+        {% assign related_count = 0 %}
+        {% for post in related_posts %}
+          {% if related_count >= 3 %}{% break %}{% endif %}
+          {% for category in page.categories %}
+            {% if post.categories contains category %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
+              </li>
+              {% assign related_count = related_count | plus: 1 %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </footer>
 
   {% include comment.html %}
 </article>

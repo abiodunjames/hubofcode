@@ -1,0 +1,38 @@
+/* TEAM */
+Author: Samuel James (James Samuel Abiodun)
+Site: https://hubofco.de
+Twitter: @samueljabiodun
+LinkedIn: linkedin.com/in/samuel-james-abiodun
+GitHub: github.com/abiodunjames
+Location: Global
+
+/* SITE */
+Name: Hubofcode
+URL: https://hubofco.de
+Description: Technical blog on software engineering, engineering leadership, DevOps, and machine learning
+Last Updated: 2025
+Language: English
+Standards: HTML5, CSS3, JavaScript
+Components: Jekyll, Liquid, Sass
+Software: Jekyll 4.x
+Hosting: GitHub Pages
+
+/* THANKS */
+Jekyll: https://jekyllrb.com
+GitHub Pages: https://pages.github.com
+Font Awesome: https://fontawesome.com
+
+/* TOPICS COVERED */
+- Software Engineering & Best Practices
+- Engineering Leadership & Management
+- DevOps & Cloud Architecture (AWS, GCP)
+- Serverless Computing
+- Machine Learning & AI
+- Full-Stack Development (Node.js, React, Vue.js)
+- System Design & Architecture
+- API Design & Development
+
+/* CONTACT */
+Email: james@hubofco.de
+Calendar: calendly.com/abiodunjames
+

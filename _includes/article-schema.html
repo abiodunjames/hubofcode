@@ -1,0 +1,59 @@
+<!-- Article Schema for Blog Posts -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "headline": "{{ page.title | escape }}",
+  "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 | escape }}{% else %}{{ page.content | strip_html | truncate: 160 | escape }}{% endif %}",
+  "image": {% if page.image %}"{{ site.url }}{{ page.image }}"{% else %}"{{ site.url }}{{ site.avatar }}"{% endif %},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+  "author": {
+    "@type": "Person",
+    "name": "Samuel James",
+    "url": "{{ site.url }}/about",
+    "image": "{{ site.url }}{{ site.avatar }}",
+    "sameAs": [
+      "https://twitter.com/samueljabiodun",
+      "https://www.linkedin.com/in/samuel-james-abiodun",
+      "https://github.com/abiodunjames"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.avatar }}",
+      "width": 200,
+      "height": 200
+    }
+  },
+  "articleSection": "{% if page.categories %}{{ page.categories | join: ', ' }}{% else %}Technology{% endif %}",
+  "keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}software engineering, technology{% endif %}",
+  "wordCount": {{ page.content | number_of_words }},
+  "inLanguage": "{{ site.lang | default: 'en-US' }}"
+}
+</script>
+
+<!-- TechArticle Schema (enhanced for technical content) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "{{ page.title | escape }}",
+  "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 | escape }}{% else %}{{ page.content | strip_html | truncate: 160 | escape }}{% endif %}",
+  "author": {
+    "@type": "Person",
+    "name": "Samuel James"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "proficiencyLevel": "Beginner to Expert",
+  "dependencies": "{% if page.tags %}{{ page.tags | join: ', ' }}{% endif %}"
+}
+</script>
+

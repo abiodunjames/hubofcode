@@ -1,0 +1,48 @@
+# robots.txt for hubofco.de
+# https://hubofco.de
+
+# Allow all crawlers full access
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hubofco.de/sitemap.xml
+
+# AI/LLM Crawlers - Explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Disallow crawling of non-content pages
+User-agent: *
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /*.json$
+
+# Crawl-delay for polite crawling (optional)
+Crawl-delay: 1
+
+# LLMs.txt reference (for AI discoverability)
+# See: https://hubofco.de/llms.txt
+# See: https://hubofco.de/ai.txt
+

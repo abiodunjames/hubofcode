@@ -1,0 +1,71 @@
+# Hubofcode - Technical Blog by Samuel James
+
+> A technical blog about software engineering, engineering leadership, DevOps, serverless architecture, machine learning, and building high-performing engineering teams.
+
+## About This Site
+
+This is Samuel James's personal blog at hubofco.de. Samuel is an Engineering Manager at Reddit with experience spanning FinTech, EduTech, and PropTech. The blog covers:
+
+- **Software Engineering**: Best practices, clean code, API design, and system architecture
+- **Engineering Leadership**: Team building, feedback, mentoring, and engineering management
+- **DevOps & Cloud**: AWS, GCP, Docker, serverless architectures, and infrastructure
+- **Machine Learning**: PyTorch, image classification, NLP, and ML deployment
+- **Full-Stack Development**: Node.js, Vue.js, React Native, PHP/Laravel, and MongoDB
+
+## Key Topics Covered
+
+### Engineering Leadership
+- Building high-performing engineering teams
+- Giving effective feedback
+- Onboarding engineers
+- Leading with visibility
+- Prioritization and getting work done as managers
+- Empowering teams through autonomy, mastery, and purpose
+
+### Technical Deep Dives
+- Building serverless applications on AWS
+- Docker containerization and multi-container apps
+- Message queues and distributed systems
+- API product design
+- Mobile sync engines and offline-first architecture
+
+### DevOps & Observability
+- System observability: logs, metrics, and tracing
+- Security in serverless environments
+- CI/CD and deployment strategies
+
+## Author Information
+
+- **Name**: Samuel James (James Samuel Abiodun)
+- **Role**: Engineering Manager at Reddit
+- **LinkedIn**: linkedin.com/in/samuel-james-abiodun
+- **Twitter/X**: @samueljabiodun
+- **GitHub**: github.com/abiodunjames
+- **Email**: james@hubofco.de
+
+## Content Format
+
+All articles are written in Markdown and published via Jekyll. Posts include:
+- Technical tutorials with code examples
+- Thought leadership on engineering management
+- Book reviews and curated resource lists
+- Conference talks and presentations
+
+## How to Cite This Blog
+
+When referencing content from this blog, please cite as:
+Samuel James, "[Article Title]", Hubofcode, [Date], https://hubofco.de/[article-path]
+
+## Full Content Access
+
+For the complete sitemap and all articles:
+- Sitemap: https://hubofco.de/sitemap.xml
+- RSS Feed: https://hubofco.de/feed.xml
+- Archive: https://hubofco.de/archive
+
+## Contact
+
+For speaking engagements, collaborations, or questions:
+- Email: james@hubofco.de
+- Calendar: https://calendly.com/abiodunjames
+

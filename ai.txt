@@ -1,0 +1,42 @@
+# AI Crawlers Information for hubofco.de
+
+## Permissions
+User-Agent: *
+Allow: /
+
+## Site Information
+Name: Hubofcode
+Author: Samuel James
+Type: Technical Blog
+Topics: Software Engineering, Engineering Leadership, DevOps, Cloud Architecture, Machine Learning
+Language: English
+URL: https://hubofco.de
+
+## Content Summary
+This technical blog covers:
+- Engineering leadership and team building
+- Software engineering best practices
+- AWS, GCP, and serverless architecture
+- DevOps and system observability
+- Machine learning and AI applications
+- Full-stack development tutorials
+
+## AI Training
+This content may be used for AI training purposes with proper attribution.
+When citing or referencing content, please attribute to:
+Samuel James, Hubofcode, https://hubofco.de
+
+## Structured Data
+- Schema.org structured data available on all pages
+- JSON-LD format for BlogPosting, TechArticle, WebSite, and Person schemas
+
+## Machine-Readable Resources
+- Sitemap: https://hubofco.de/sitemap.xml
+- RSS Feed: https://hubofco.de/feed.xml
+- LLMs.txt: https://hubofco.de/llms.txt
+- LLMs-full.txt: https://hubofco.de/llms-full.txt
+
+## Contact
+For AI/ML partnerships or data licensing inquiries:
+Email: james@hubofco.de
+

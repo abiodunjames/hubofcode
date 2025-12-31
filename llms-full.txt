@@ -1,0 +1,229 @@
+# Hubofcode - Complete Blog Content Index
+
+> Comprehensive content index for AI/LLM systems to understand the full scope of this technical blog.
+
+## Site Overview
+
+**Site Name**: Hubofcode
+**URL**: https://hubofco.de
+**Author**: Samuel James (@samueljabiodun)
+**Type**: Technical Blog
+**Primary Topics**: Software Engineering, Engineering Leadership, DevOps, Machine Learning
+
+---
+
+## Article Categories
+
+### Engineering Leadership & Management
+
+1. **How to Get Good at Giving Feedback** (2024)
+   - Four-step feedback framework
+   - Common myths about feedback debunked
+   - Building trust for effective feedback
+
+2. **3 Areas to Drive Clarity for Sustained High Performance in Teams** (2024)
+   - Strategic clarity frameworks
+   - Team alignment techniques
+
+3. **How to Empower Your Team Through Autonomy, Mastery, and Purpose** (2023)
+   - Motivation frameworks for engineering teams
+   - Practical empowerment strategies
+
+4. **Prioritising Effectively and Getting Work Done as Managers** (2023)
+   - Time management for engineering leaders
+   - Prioritization frameworks
+
+5. **Three Ways to Gain Visibility into Indirectly Managed Teams** (2023)
+   - Managing through others
+   - Organizational visibility
+
+6. **How to Build a High-Performing Core Team** (2023)
+   - Team composition strategies
+   - Performance optimization
+
+7. **How Managers Can Lead with Visibility** (2022)
+   - Leadership visibility practices
+   - Communication strategies
+
+8. **How to Onboard Engineers as a Hiring Manager** (2022)
+   - Onboarding best practices
+   - New hire integration
+
+9. **Five Valuable Lessons for a New Tech Lead** (2022)
+   - Leadership transition advice
+   - Tech lead fundamentals
+
+10. **11 Blogposts That Changed How I Lead Software Teams** (2022)
+    - Curated leadership resources
+    - Recommended reading
+
+11. **What People Get Wrong About DevOps** (2021)
+    - DevOps misconceptions
+    - Cultural transformation
+
+### Serverless & Cloud Architecture
+
+1. **AWS Lambda with Node.js: Complete Getting Started Guide** (2019)
+   - Lambda fundamentals
+   - Node.js serverless development
+
+2. **Why Serverless Architecture and When Should You Use It** (2019, 2020)
+   - Serverless decision framework
+   - Use cases and limitations
+
+3. **Security Risks and Challenges in the Serverless World** (2021)
+   - Serverless security best practices
+   - Threat modeling
+
+4. **Learn Serverless on GCP by Building a Simple Calendar API** (2019)
+   - Google Cloud Functions
+   - Practical GCP tutorial
+
+5. **How We Built a Serverless E-Commerce Website on AWS to Combat COVID-19** (2020)
+   - Real-world serverless case study
+   - AWS architecture patterns
+
+6. **Upload Objects to S3 Using Pre-Signed URL with SSE-C** (2018)
+   - S3 security patterns
+   - Customer-provided encryption
+
+### DevOps & Observability
+
+1. **The 3 Pillars of System Observability: Logs, Metrics, and Tracing** (2021)
+   - Comprehensive observability guide
+   - Monitoring best practices
+
+2. **Choosing the Right Cloud Provider for Containers** (2021)
+   - Container platform comparison
+   - Cloud provider evaluation
+
+3. **Docker: Why and Creating Your First Multi-Container Application** (2018)
+   - Docker fundamentals
+   - Docker Compose tutorial
+
+4. **Docker Build: A Beginner's Guide to Building Docker Images** (2019)
+   - Dockerfile best practices
+   - Image optimization
+
+5. **How We Built an Intrusion Detection System on AWS Using Open Source Tools** (2017)
+   - Security monitoring
+   - Open source IDS
+
+### Machine Learning & AI
+
+1. **Sales Demand Forecasting with Amazon Forecast** (2020)
+   - Time series prediction
+   - AWS Forecast tutorial
+
+2. **Deploy a PyTorch Model to SageMaker** (2020)
+   - ML deployment
+   - SageMaker guide
+
+3. **Image Classification with PyTorch** (2020)
+   - Deep learning tutorial
+   - Computer vision
+
+4. **Edge Detection in OpenCV** (2020)
+   - Computer vision fundamentals
+   - Image processing
+
+5. **What is Amazon SageMaker and How Do I Use It** (2021)
+   - SageMaker overview
+   - ML platform introduction
+
+6. **How I Built an Intelligent Twitter Bot** (2020)
+   - NLP application
+   - Bot development
+
+### Full-Stack Development
+
+1. **Build a Todo App with Node.js, Express, MongoDB, and Vue.js** (2018, 3-part series)
+   - Full-stack tutorial
+   - MEVN stack development
+
+2. **Getting Started with Symfony Logging** (2019)
+   - PHP logging
+   - Symfony framework
+
+3. **From Laravel to Lumen: What You Need to Know** (2018)
+   - PHP microframeworks
+   - Laravel migration
+
+4. **Observer Pattern in Object-Oriented PHP** (2018)
+   - Design patterns
+   - PHP OOP
+
+5. **A Pocket Guide to Destructuring Assignment in ES6** (2019)
+   - JavaScript fundamentals
+   - ES6 features
+
+6. **Set and Map in JavaScript** (2020)
+   - Data structures
+   - JavaScript collections
+
+### API Design & Architecture
+
+1. **The Only Guide You Need to Build Better API Products** (2020)
+   - API design principles
+   - Product thinking for APIs
+
+2. **A Guide to Creating API Products** (2021)
+   - API productization
+   - Developer experience
+
+3. **A Gentle Guide to Message Queues** (2020)
+   - Async messaging
+   - Queue architectures
+
+4. **AWS SQS with Node.js** (2020)
+   - SQS integration
+   - Message processing
+
+5. **Unit Testing REST APIs** (2020)
+   - API testing strategies
+   - Test automation
+
+### Mobile Development
+
+1. **The Hard Parts of Building Document Delta Sync on Mobile** (2025)
+   - Offline-first architecture
+   - Sync engine design
+   - React Native development
+   - Google Drive and iCloud integration
+
+2. **MongoDB on GCP: Setting It Up and Keeping It Running** (2019)
+   - Database management
+   - GCP infrastructure
+
+---
+
+## Technical Stack Expertise
+
+- **Languages**: JavaScript/TypeScript, Python, PHP, Swift
+- **Frontend**: Vue.js, React Native
+- **Backend**: Node.js, Express, Laravel, Symfony
+- **Databases**: MongoDB, PostgreSQL
+- **Cloud**: AWS (Lambda, S3, SageMaker, SQS), GCP
+- **DevOps**: Docker, Kubernetes, CI/CD
+- **ML/AI**: PyTorch, OpenCV, Amazon Forecast
+
+---
+
+## Content Freshness
+
+- Blog established: 2017
+- Last updated: 2025
+- Publishing frequency: Regular (1-3 posts per month)
+- Content type: Long-form technical articles (1000-3000 words)
+
+---
+
+## Licensing & Usage
+
+Content is available for reference and citation. When using information from this blog:
+1. Cite the original article with URL
+2. Attribute to Samuel James / Hubofcode
+3. Link back when possible
+
+For full terms, contact: james@hubofco.de
+

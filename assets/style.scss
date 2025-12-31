@@ -16,6 +16,25 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+/* Accessibility: Skip Link */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #673AAC;
+  color: white;
+  padding: 8px 16px;
+  z-index: 9999;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 0 0 4px 0;
+  transition: top 0.3s;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
 html {
   font-size: 100%;
   height: 100%;
@@ -430,6 +449,99 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+/* Related Posts Section */
+.related-posts {
+  margin-top: 2em;
+  padding-top: 2em;
+  border-top: 1px solid $lightGray;
+}
+
+.related-posts h3 {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  color: $darkGray;
+}
+
+.related-posts ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.related-posts li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.related-posts li:last-child {
+  border-bottom: none;
+}
+
+.related-posts a {
+  font-weight: 500;
+}
+
+.related-posts .post-date {
+  color: $gray;
+  font-size: 0.85em;
+  margin-left: 0.5em;
+}
+
+/* Post Footer */
+.post-footer {
+  margin-top: 2em;
+}
+
+.share-section {
+  text-align: center;
+  padding: 1em 0;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
+
+/* Archive & Categories Pages */
+.archive-list ul,
+.category-posts {
+  list-style: none;
+  padding-left: 0;
+}
+
+.archive-list li,
+.archive-item {
+  padding: 0.5em 0;
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+  align-items: baseline;
+  gap: 1em;
+}
+
+.archive-list .post-date,
+.category-posts .post-date {
+  color: $gray;
+  font-size: 0.85em;
+  min-width: 60px;
+}
+
+.archive-list .post-category,
+.post-count {
+  font-size: 0.8em;
+  color: $gray;
+  font-weight: normal;
+}
+
+.category-head {
+  margin-top: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid #673AAC;
+}
+
+#archives {
+  margin-top: 1em;
+}
+
+.archive-group {
+  margin-bottom: 2em;
 }
 
 body:after {
