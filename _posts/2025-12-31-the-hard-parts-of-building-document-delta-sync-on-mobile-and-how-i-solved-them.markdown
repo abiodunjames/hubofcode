@@ -10,8 +10,6 @@ tags:
 - sync-engine
 - google-drive
 - icloud
-- offline-first
-- mobile-development
 author: Samuel James
 image: "/images/logo.png"
 last_modified_at: 2025-12-31 00:00:00 Z
@@ -20,7 +18,7 @@ description: Learn how to build a robust document sync engine for mobile apps wi
   architecture, and background sync in React Native.
 ---
 
-I recently built document auto-sync with Google Drive and iCloud for my personal hobby project — [Keeplys](https://keeplys.com). This blog post explains the challenges and my approach to solving them.
+I recently built document auto-sync feature with Google Drive and iCloud for my personal hobby project — [Keeplys](https://keeplys.com). This blog post explains the challenges and my approach to solving them.
 
 For context, Keeplys is a hobby project: a simple document manager running on a mobile phone that I’ve been building in my free time. When you store or scan documents via Keeplys, it organises them into a folder locally on the device.
 
