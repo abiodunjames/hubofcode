@@ -12,12 +12,7 @@ Hi, I'm [James Samuel](https://www.linkedin.com/in/samuel-james-abiodun/), I bui
 
 ## What I Do
 
-I'm an **Engineering Manager at [Reddit](https://www.redditinc.com/)**, where we're bringing community and belonging to everyone. My experience spans multiple industries:
-
-- **FinTech** - Building secure, scalable financial systems
-- **EduTech** - Creating impactful learning platforms
-- **PropTech** - Developing innovative property technology solutions
-- **Social Media** – Building the world largest community platform
+I'm an **Engineering Manager at [Reddit](https://www.redditinc.com/)**, where we're bringing community and belonging to everyone. Previously, I worked in FinTech, EdTech, PropTech, and Mobility.
 
 ## What I Write About
 
