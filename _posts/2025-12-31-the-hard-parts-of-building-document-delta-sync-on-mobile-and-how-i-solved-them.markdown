@@ -42,7 +42,7 @@ This is the story of how I built a sync engine that handles all of this.
 
 ### Implementation guiding principles
 
-Previously, as an engineer and now a manager, I’ve come to understand the power of setting guiding principles when exploring choices and narrowing options down. I leaned on this approach and defined a few principles that I wanted the feature to adhere to.
+I’ve come to understand the power of setting guiding principles when exploring choices and narrowing options down. I leaned on this approach and defined a few principles that I wanted the feature to adhere to.
 
 #### The app must work perfectly offline
 
