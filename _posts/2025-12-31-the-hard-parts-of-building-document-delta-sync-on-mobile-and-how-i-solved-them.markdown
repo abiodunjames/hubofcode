@@ -12,6 +12,8 @@ During this holiday, I built document auto-sync with Google Drive and iCloud for
 
 For context, Keeplys is a hobby project: a simple document manager running on a mobile phone that I’ve been building in my free time. When you store or scan documents via Keeplys, it organises them into a folder locally on the device.
 
+![images](/uploads/Keeplys-_02.png)
+
 Keeplys is local-first by default. Your documents live on your device but there is an important question: what happens if a device is lost? How do you recover your documents? It wasn’t hard to see that this was a problem worth solving.
 
 Before building the sync feature, the main question on my mind was: how do you sync files to the cloud? I wanted to be able to scan documents on my phone, organise them locally, and have the files backed up to the cloud.
