@@ -1,6 +1,5 @@
 ---
-title: The Hard Parts of Building Document Delta Sync on Mobile (and How I Solved
-  Them)
+title: The Hard Parts of Building Document Delta Sync on Mobile and How I Solved Them
 date: 2025-12-31 19:34:00 Z
 categories:
 - Mobile Development
