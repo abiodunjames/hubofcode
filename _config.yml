@@ -30,7 +30,7 @@ description: My personal blog on making software.
 author: "@samueljabiodun"
 email: james@hubofco.de
 url: https://hubofco.de
-baseurl: "/"
+baseurl: ""
 enforce_ssl: https://hubofco.de
 permalink: pretty
 lang: en-US
@@ -39,7 +39,7 @@ twitter:
   username: samueljabiodun
   card: summary_large_image
 social:
-  name: Samuel James
+  name:  James Samuel
   links:
   - https://twitter.com/samueljabiodun
   - https://www.linkedin.com/in/samuel-james-abiodun

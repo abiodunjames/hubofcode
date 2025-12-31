@@ -46,7 +46,8 @@ This is the story of how I built a sync engine that handles all of this.
 
 Previously, as an engineer and now a manager, I’ve come to understand the power of setting guiding principles when exploring choices and narrowing options down. I leaned on this approach and defined a few principles that I wanted the feature to adhere to.
 
-1. **The app must work perfectly offline.**
+#### The app must work perfectly offline
+
     Cloud sync is a feature and never should it be a dependency. Users should never see a loading spinner waiting for the sync.
 
   This means:
@@ -55,15 +56,17 @@ Previously, as an engineer and now a manager, I’ve come to understand the powe
   - Sync happens asynchronously in the background
   - Pending uploads queue up and execute when connectivity returns
 
-2. **Cloud deletion shouldn’t interfere with what is stored locally.**
+#### Cloud deletion shouldn’t interfere with what is stored locally
+
   The most dangerous operation in any sync system is delete. Google Drive and iCloud should never silently delete local data.
 
   If a user deletes a file from Google Drive’s web interface, it shouldn’t mirror that action locally. Instead, the document should be marked as *unsynced* and the user should decide what to do.
 
-3. **Drive agnostic**
+#### Drive agnostic
     I want to leave room for extension. The first iteration supports Google Drive and iCloud, but I want to allow for other providers like Dropbox, Box, etc. To support this, the design must be drive agnostic. I designed a single sync engine that talks to a `DriveProvider` interface.
 
-4. **Documents should have observable state**
+#### Documents should have observable state
+
     Documents should have visible sync status: synced, pending, conflict, or unsynced. Users should always know what’s happening.
 
 
