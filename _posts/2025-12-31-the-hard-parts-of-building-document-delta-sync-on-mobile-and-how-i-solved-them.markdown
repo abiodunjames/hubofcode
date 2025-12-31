@@ -49,16 +49,16 @@ Previously, as an engineer and now a manager, I’ve come to understand the powe
 1. **The app must work perfectly offline.**
     Cloud sync is a feature and never should it be a dependency. Users should never see a loading spinner waiting for the sync.
 
-This means:
+  This means:
 
-- Documents are saved locally first, always
-- Sync happens asynchronously in the background
-- Pending uploads queue up and execute when connectivity returns
+  - Documents are saved locally first, always
+  - Sync happens asynchronously in the background
+  - Pending uploads queue up and execute when connectivity returns
 
 2. **Cloud deletion shouldn’t interfere with what is stored locally.**
-    The most dangerous operation in any sync system is delete. Google Drive and iCloud should never silently delete local data.
+  The most dangerous operation in any sync system is delete. Google Drive and iCloud should never silently delete local data.
 
-If a user deletes a file from Google Drive’s web interface, it shouldn’t mirror that action locally. Instead, the document should be marked as *unsynced* and the user should decide what to do.
+  If a user deletes a file from Google Drive’s web interface, it shouldn’t mirror that action locally. Instead, the document should be marked as *unsynced* and the user should decide what to do.
 
 3. **Drive agnostic**
     I want to leave room for extension. The first iteration supports Google Drive and iCloud, but I want to allow for other providers like Dropbox, Box, etc. To support this, the design must be drive agnostic. I designed a single sync engine that talks to a `DriveProvider` interface.
@@ -216,7 +216,6 @@ query.start()
 
 This gives live notifications when files change — more real-time than polling, but also harder to implement.
 
-------
 
 ### The sync engine
 
@@ -236,7 +235,6 @@ With providers abstracted, I built a sync engine that:
   - ETag mismatch → conflict state
   - User resolves: keep local, keep remote, or keep both
 
-------
 
 ### The sync journal
 
@@ -256,7 +254,6 @@ interface SyncJournal {
 
 The `failedOps` array is crucial. After five retries, I stop retrying and surface the error to the user.
 
-------
 
 ### Handling deletion in the cloud
 
@@ -279,7 +276,7 @@ I handled this with a **soft-delete with confirmation**:
 | Remote file deleted  | Local file marked *unsynced*, NOT deleted |
 | User confirms        | Local file permanently deleted            |
 
-------
+
 
 ### Handling the merge problem
 
@@ -315,8 +312,3 @@ BackgroundFetch.registerTaskAsync('KEEPLYS_BACKGROUND_SYNC', {
 On iOS, this wraps `BGAppRefreshTask`. On Android, it wraps `WorkManager`. Both respect battery optimization and network constraints.
 
 I also added a **“Sync on Wi-Fi only”** toggle. When enabled, background sync checks `NetInfo.type === 'wifi'` before proceeding.
-
-------
-
-Keeplys is a document scanning app for iOS and Android.
- Try it at **keeplys.com**.
