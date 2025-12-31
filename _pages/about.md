@@ -3,8 +3,9 @@ title: About
 permalink: "/about/"
 author: James Samuel
 layout: post
-description: "James Samuel is an Engineering Manager at Reddit with expertise in software engineering, team building and growth engineering"
-image: /images/logo.png
+description: James Samuel is an Engineering Manager at Reddit with expertise in software
+  engineering, team building and growth engineering
+image: "/images/logo.png"
 ---
 
 Hi, I'm [James Samuel](https://www.linkedin.com/in/samuel-james-abiodun/), I build and scale software teams.
