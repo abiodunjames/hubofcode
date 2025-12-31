@@ -1,7 +1,7 @@
 ---
-title: "The Hard Parts of Building Document Delta Sync on Mobile (and How I Solved Them)"
+title: The Hard Parts of Building Document Delta Sync on Mobile (and How I Solved
+  Them)
 date: 2025-12-31 19:34:00 Z
-last_modified_at: 2025-12-31
 categories:
 - Mobile Development
 - Software Engineering
@@ -12,8 +12,11 @@ tags:
 - icloud
 - offline-first
 - mobile-development
-description: "Learn how to build a robust document sync engine for mobile apps with Google Drive and iCloud integration. Covers delta sync, conflict resolution, offline-first architecture, and background sync in React Native."
-image: /images/logo.png
+last_modified_at: 2025-12-31 00:00:00 Z
+description: Learn how to build a robust document sync engine for mobile apps with
+  Google Drive and iCloud integration. Covers delta sync, conflict resolution, offline-first
+  architecture, and background sync in React Native.
+image: "/images/logo.png"
 author: Samuel James
 ---
 

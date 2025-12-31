@@ -1,51 +1,6 @@
 ---
-# Site Settings
 title: Hubofcode
-name: Hubofcode
-tagline: "Software Engineering, Leadership & Cloud Architecture"
-description: "My personal blog on making software."
-author: "@samueljabiodun"
-email: james@hubofco.de
 timezone: UTC
-
-# URL Configuration
-url: https://hubofco.de
-baseurl: "/"
-enforce_ssl: https://hubofco.de
-permalink: pretty
-
-# SEO Configuration
-lang: en-US
-locale: en_US
-
-# Social/Author Information (for SEO tags)
-twitter:
-  username: samueljabiodun
-  card: summary_large_image
-
-social:
-  name: Samuel James
-  links:
-    - https://twitter.com/samueljabiodun
-    - https://www.linkedin.com/in/samuel-james-abiodun
-    - https://github.com/abiodunjames
-
-# Site Logo & Images
-logo: /images/logo.png
-avatar: "/images/logo.png"
-og_image: /images/logo.png
-
-# Webmaster Verifications (add your verification codes)
-webmaster_verifications:
-  google: # Add your Google Search Console verification code
-  bing: # Add your Bing Webmaster verification code
-
-# Google Analytics
-google_analytics: UA-108117283-1
-google_analytics_ga4: G-WFN1KH6WQP
-google_analytics_ga4_property_id: 310399392
-
-# Collections
 collections:
   machine-learning:
     title: Machine Learning
@@ -56,90 +11,99 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-# Pagination
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Samuel James
+    image: "/images/logo.png"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+name: Hubofcode
+tagline: Software Engineering, Leadership & Cloud Architecture
+description: My personal blog on making software.
+author: "@samueljabiodun"
+email: james@hubofco.de
+url: https://hubofco.de
+baseurl: "/"
+enforce_ssl: https://hubofco.de
+permalink: pretty
+lang: en-US
+locale: en_US
+twitter:
+  username: samueljabiodun
+  card: summary_large_image
+social:
+  name: Samuel James
+  links:
+  - https://twitter.com/samueljabiodun
+  - https://www.linkedin.com/in/samuel-james-abiodun
+  - https://github.com/abiodunjames
+logo: "/images/logo.png"
+avatar: "/images/logo.png"
+og_image: "/images/logo.png"
+webmaster_verifications:
+  google: 
+  bing: 
+google_analytics: UA-108117283-1
+google_analytics_ga4: G-WFN1KH6WQP
+google_analytics_ga4_property_id: 310399392
 paginate: 15
-
-# Post Excerpts
 excerpt_separator: "\n\n"
-
-# Comments
 disqus: samuelabiodun
 comment: true
-
-# Footer Social Links
 footer-links:
-  dribbble:
+  dribbble: 
   email: james@hubofco.de
-  facebook:
-  flickr:
+  facebook: 
+  flickr: 
   github: abiodunjames
-  instagram:
+  instagram: 
   linkedin: samuel-james-abiodun
-  pinterest:
+  pinterest: 
   rss: rss
   twitter: samueljabiodun
-  stackoverflow:
-  youtube:
-  googleplus:
-  playconsole:
-
-# Build Settings
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+  playconsole: 
 version: v1.2.0
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     css_class: highlight
-
 sass:
   style: compressed
-
-# Plugins
 plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jemoji
-  - jekyll-remote-theme
-  - jekyll-twitter-plugin
-  - jekyll-last-modified-at
-
-# Include/Exclude
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
+- jemoji
+- jekyll-remote-theme
+- jekyll-twitter-plugin
+- jekyll-last-modified-at
 include:
-  - _pages
-  - robots.txt
-  - llms.txt
-  - llms-full.txt
-  - humans.txt
-  - ai.txt
-
+- _pages
+- robots.txt
+- llms.txt
+- llms-full.txt
+- humans.txt
+- ai.txt
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - node_modules
-  - vendor
-
-# Default Front Matter
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Samuel James"
-      image: /images/logo.png
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-
-# Feed Settings
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
+- node_modules
+- vendor
 feed:
   posts_limit: 20
   excerpt_only: false

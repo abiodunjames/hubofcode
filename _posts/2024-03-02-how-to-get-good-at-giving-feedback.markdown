@@ -1,7 +1,6 @@
 ---
-title: "How to Get Good at Giving Feedback: A Guide for Engineering Leaders"
+title: 'How to Get Good at Giving Feedback: A Guide for Engineering Leaders'
 date: 2024-03-02 17:35:00 Z
-last_modified_at: 2024-03-02
 categories:
 - Engineering Leadership
 - Software Engineering
@@ -11,8 +10,11 @@ tags:
 - leadership
 - team-management
 - engineering-management
-description: "Master the art of giving effective feedback as a tech lead or engineering manager. Learn the four-step feedback framework, debunk common myths, and build a culture of trust for high-performing teams."
-image: /images/logo.png
+last_modified_at: 2024-03-02 00:00:00 Z
+description: Master the art of giving effective feedback as a tech lead or engineering
+  manager. Learn the four-step feedback framework, debunk common myths, and build
+  a culture of trust for high-performing teams.
+image: "/images/logo.png"
 author: Samuel James
 ---
 

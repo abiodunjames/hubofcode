@@ -2,7 +2,8 @@
 title: Browse Articles by Category
 permalink: "/categories/"
 layout: page
-description: "Browse all articles on Hubofcode organized by category including Software Engineering, DevOps, Machine Learning, and Engineering Leadership."
+description: Browse all articles on Hubofcode organized by category including Software
+  Engineering, DevOps, Machine Learning, and Engineering Leadership.
 ---
 
 # Categories

@@ -3,8 +3,10 @@ title: About Samuel James - Engineering Manager & Technical Writer
 permalink: "/about/"
 author: Samuel James
 layout: post
-description: "Samuel James is an Engineering Manager at Reddit with expertise in software engineering, team building, DevOps, and cloud architecture. Learn about his background and connect."
-image: /images/logo.png
+description: Samuel James is an Engineering Manager at Reddit with expertise in software
+  engineering, team building, DevOps, and cloud architecture. Learn about his background
+  and connect.
+image: "/images/logo.png"
 ---
 
 Hi, I'm [Samuel James](https://www.linkedin.com/in/samuel-james-abiodun/) (also known as James Samuel Abiodun). I build and scale software teams.

@@ -1,8 +1,9 @@
 ---
 title: All Articles - Complete Blog Archive
-permalink: /archive/
+permalink: "/archive/"
 layout: page
-description: "Complete archive of all articles on Hubofcode covering software engineering, engineering leadership, DevOps, serverless architecture, and machine learning."
+description: Complete archive of all articles on Hubofcode covering software engineering,
+  engineering leadership, DevOps, serverless architecture, and machine learning.
 ---
 
 # Blog Archive
