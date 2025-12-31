@@ -1,33 +1,22 @@
 ---
-title: Newsletter
-permalink: "/newsletter/"
+title: Books
+permalink: "/books/"
 ---
 
-<iframe src="https://softwareleads.substack.com/embed" width="100%" height="320" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+Every now and then, I come across exceptional books that influence my career. I've compiled a shortlist of what I consider to be "must-reads" below. I'll keep adding to this list as I learn new stuff.
 
-# Why subscribe?
-As you move from actively coding to leading a team of coders, you'll need a different set of skills to succeed in your new roles and responsibilities. You don't usually get a manual to help you succeed; instead, you learn by doing and observing what works and what doesn't.
+- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://amzn.to/3fjVzy9)
 
-I've spent the last 9\+ years writing software and leading software teams by figuring things out as I went and making just about every mistake along the way. Now, I continue to build and lead distributed teams that build for millions of users; I find myself constantly learning and discovering new and exciting things all over again.
+- [EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group)](https://amzn.to/3viuG2V)
 
-Effective Software Leads is a monthly publication dedicated to software engineering and leadership. It looks at the difficulties of building and leading software teams in the twenty-first century.
+- [Your First 90 Days](https://amzn.to/2So4qFD)
 
-Every month, I publish a new issue that includes links to interesting articles, use cases, and insights from experts on leading teams and solving common software engineering challenges at scale. Together, we learn and become better software engineers, better software leads, better engineering managers, and CTOs by making fewer mistakes as we learn from one another.
+- [The Long Journey to Technical Leadership: Rules and Mistakes](https://amzn.to/3hNn7xi)
 
-# FAQS
+- [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://amzn.to/34aKIQv)
 
-**How often will I receive the newsletter?**
+- [Leadership Strategy and Tactics: Field Manual](https://amzn.to/3ueBspg)
 
-You will receive the newsletter at the beginning of each month. Each newsletter includes a link to the last. You can unsubscribe at any time should you need to?
+- [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.de/-/en/Will-Larson/dp/1732265186)
 
-**What topics does the newsletter cover?**
-
-It covers things related to software engineering at scale, leading distributed teams at scale, engineering leadership, and insights for leaders in tech. Once in a while, you will get insider access to my premium guest posts on popular tech blogs.
-
-**I'm just starting my career. Can I subscribe?**
-
-Yes, you can. I try to include content for all levels. Whether you're just starting or a veteran in the industry, there is something for you.
-
-**Why subscribe to Effective Software Leads?**
-
-There are more leadership newsletters than I can count, but the Effective Software Lead newsletter goes to great lengths to ensure that each piece of information is top-notch and helpful to readers.
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)

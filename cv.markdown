@@ -36,8 +36,6 @@ published: false
 
   
 
-  
-
 **Tech Lead, December 2020 - Presents**
 **Tier Mobility, Berlin**
 
