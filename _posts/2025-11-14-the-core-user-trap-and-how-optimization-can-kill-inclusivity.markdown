@@ -6,7 +6,7 @@ tags:
 - building for the billions
 - building for a global audience
 comment: true
-image: "https://substackcdn.com/image/fetch/$s_!LTjN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249fae5a-1c29-4f6a-885c-1f281e99fe0c_4135x1575.png"
+image: https://substackcdn.com/image/fetch/$s_!LTjN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249fae5a-1c29-4f6a-885c-1f281e99fe0c_4135x1575.png
 canonical_url: https://softwareleads.substack.com/p/why-building-for-the-20-of-leave
 ---
 

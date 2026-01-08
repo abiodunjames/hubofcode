@@ -6,7 +6,7 @@ categories:
 tags:
 - prioritisation
 - software leads
-image: "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc8911ec-df2f-4212-b49c-165524d35d2c_1600x670.png"
+image: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc8911ec-df2f-4212-b49c-165524d35d2c_1600x670.png
 ---
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc8911ec-df2f-4212-b49c-165524d35d2c_1600x670.png)

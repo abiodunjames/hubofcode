@@ -11,7 +11,7 @@ tags:
 author: Samuel
 comments: true
 layout: post
-image: "https://res.cloudinary.com/samueljames/image/upload/v1578307034/Hnet-image.gif"
+image: https://res.cloudinary.com/samueljames/image/upload/v1578307034/Hnet-image.gif
 ---
 
 Today, I want to talk about one of my favorite plugins for prototyping Javascript in visual studio code: [Quokka.js](https://quokkajs.com/).

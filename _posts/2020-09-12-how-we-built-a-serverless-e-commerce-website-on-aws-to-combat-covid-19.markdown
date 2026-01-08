@@ -12,9 +12,8 @@ tags:
 canonical_url: https://medium.com/swlh/what-we-learned-from-building-a-serverless-e-commerce-website-on-aws-to-combat-covid-19-2b66155f9b08
 comment: true
 author: samuel
-image: "https://miro.medium.com/max/1962/0*WcEW2tF0Rf7k21Kr"
+image: https://miro.medium.com/max/1962/0*WcEW2tF0Rf7k21Kr
 ---
-
 
 ![Image for post](https://miro.medium.com/max/1962/0*WcEW2tF0Rf7k21Kr)
 

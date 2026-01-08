@@ -12,7 +12,7 @@ author: Samuel
 comments: true
 description: A message queue is temporary message storage that facilitates the exchange
   of data between a producer and a consumer in an asynchronous manner
-image: "https://res.cloudinary.com/samueljames/image/upload/v1580362156/Untitled_Diagram_4.png"
+image: https://res.cloudinary.com/samueljames/image/upload/v1580362156/Untitled_Diagram_4.png
 ---
 
 The word "queue" is used everywhere. It has all kinds of meanings in the real world and even in the world of software development.

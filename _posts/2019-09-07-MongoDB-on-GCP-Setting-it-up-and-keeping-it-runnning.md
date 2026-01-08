@@ -11,7 +11,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
-image: "https://res.cloudinary.com/samueljames/image/upload/v1586002940/image-blog-big-data-on-demand-with-mongodb.jpg"
+image: https://res.cloudinary.com/samueljames/image/upload/v1586002940/image-blog-big-data-on-demand-with-mongodb.jpg
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1586002940/image-blog-big-data-on-demand-with-mongodb.jpg)

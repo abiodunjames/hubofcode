@@ -13,7 +13,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
-image: "https://res.cloudinary.com/samueljames/image/upload/v1563776668/image-1.png"
+image: https://res.cloudinary.com/samueljames/image/upload/v1563776668/image-1.png
 ---
 
 [AWS Lambda](https://aws.amazon.com/lambda/) is a service that confuses many people. For that reason, you may be wondering just how it works and how you’d use it to build a highly scalable event-driven application. And as someone who’s presumably no stranger to the internet, you must have seen the terms serverless, function-as-a-service, or AWS Lambda thrown across your screen a couple of times. Perhaps you’re looking to learn more.

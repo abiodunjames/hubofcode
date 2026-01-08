@@ -15,7 +15,7 @@ comments: true
 description: You'll learn how to deploy a Pytorch model trained on another environment
   to the AWS SageMaker model server.
 layout: post
-image: "https://res.cloudinary.com/samueljames/image/upload/v1584786321/sagemaker_2.png"
+image: https://res.cloudinary.com/samueljames/image/upload/v1584786321/sagemaker_2.png
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584786321/sagemaker_2.png)

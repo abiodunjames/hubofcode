@@ -11,7 +11,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
-image: "https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif"
+image: https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif)

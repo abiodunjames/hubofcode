@@ -12,7 +12,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
-image: "https://res.cloudinary.com/samueljames/image/upload/v1566639366/installing-symfony-client-1024x440.png"
+image: https://res.cloudinary.com/samueljames/image/upload/v1566639366/installing-symfony-client-1024x440.png
 ---
 
 > Editorial note: I originally wrote this post on Scalyr's blog. You can check out the [original here](https://www.scalyr.com/blog/getting-started-quickly-symfony-logging/), at their site.

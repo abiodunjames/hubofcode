@@ -9,7 +9,7 @@ tags:
 - team-building
 canonical_url: https://softwareleads.substack.com/p/3-areas-to-drive-clarity-for-sustained
 comment: true
-image: "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fb42724-86eb-4d94-b030-4a59956b0339_962x674.png"
+image: https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fb42724-86eb-4d94-b030-4a59956b0339_962x674.png
 description: |-
   Have you ever been on a team that's stuck? A team where everyone is moving in different directions? You spoke to three people, and there is a lack of consensus on what the team is trying to achieve. There are different perceptions of the team's priorities and direction. Priorities shift from time to time, and you could feel a sense of instability or unpredictability in the team's work. If you stick a little longer, you start to witness signs of disengagement, low morale, or a lack of enthusiasm.
 

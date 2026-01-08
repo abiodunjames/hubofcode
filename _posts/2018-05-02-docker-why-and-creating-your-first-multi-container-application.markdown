@@ -9,7 +9,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
-image: "https://res.cloudinary.com/samueljames/image/upload/v1525300995/multi-container_application.jpg"
+image: https://res.cloudinary.com/samueljames/image/upload/v1525300995/multi-container_application.jpg
 ---
 
 ![Multi Container Application](https://res.cloudinary.com/samueljames/image/upload/v1525300995/multi-container_application.jpg)
