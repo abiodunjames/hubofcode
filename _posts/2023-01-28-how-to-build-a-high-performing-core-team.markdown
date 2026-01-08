@@ -10,6 +10,7 @@ description: But you can't just pull a bunch of people together in a room and ex
   outstanding performance. To build high-performing teams, hire strong talents, empower
   them, create synergy and build a culture of learning and improvement.
 author: James Samuel
+image: "https://res.cloudinary.com/samueljames/image/upload/v1674910958/aligned_vs_mis-aligned_team.png"
 ---
 
 ![aligned team](https://res.cloudinary.com/samueljames/image/upload/v1674910958/aligned_vs_mis-aligned_team.png)

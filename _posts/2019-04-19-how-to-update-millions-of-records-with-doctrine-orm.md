@@ -10,6 +10,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1555663488/Screenshot_2019-04-17_at_09.27.47.jpg"
 ---
 
 A few days ago, I wanted to update millions of records in a  MySQL database using Doctrine 2. I did a couple of searches and landed on  this doctrine [documentation](<https://www.doctrine-project.org/projects/doctrine-orm/en/2.6/reference/batch-processing.html>).  It suggests combining  query iteration with batching strategy to achieve this. 

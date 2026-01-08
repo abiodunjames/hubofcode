@@ -1,5 +1,5 @@
 ---
-title: 'Docker Build: A Beginner’s Guide to Building Docker Images'
+title: "Docker Build: A Beginner's Guide to Building Docker Images"
 date: 2019-07-28 10:26:35 Z
 categories:
 - Docker
@@ -12,6 +12,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1564263743/Docker-Page-1-1024x929.png"
 ---
 
 Docker has changed the way we build, package, and deploy applications. But this concept of packaging apps in containers isn't new—it was in existence long before Docker came.

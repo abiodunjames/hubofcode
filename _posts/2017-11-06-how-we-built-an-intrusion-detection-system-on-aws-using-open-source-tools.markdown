@@ -11,6 +11,7 @@ tags:
 layout: post
 comments: true
 author: Samuel
+image: "http://res.cloudinary.com/samueljames/image/upload/v1524270406/New-VPC-with-Public-and-Private-Subnets1_mkd26h.png"
 ---
 
 It’s roughly a year now that we built an intrusion detection system on AWS cloud infrastructure that provides security intelligence across some selected instances using open source technologies.

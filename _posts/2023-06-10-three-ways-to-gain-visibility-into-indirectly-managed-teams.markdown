@@ -5,6 +5,7 @@ categories:
 - EngineeringManagement
 tags:
 - visibility
+image: "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4a5a817-0793-4f87-ab70-9e3a2fb81980_1164x983.png"
 ---
 
 How do you foster execution, remove roadblocks from frontline teams?

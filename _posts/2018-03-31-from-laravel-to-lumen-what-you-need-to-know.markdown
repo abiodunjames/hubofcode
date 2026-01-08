@@ -12,6 +12,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "http://res.cloudinary.com/samueljames/image/upload/v1524270390/lumen_jecvfq.png"
 ---
 
 Lumen is one of the fastest PHP frameworks built from Laravel components and made especially for building APIs or web services. It’s faster and can handle more request per second than Laravel itself.

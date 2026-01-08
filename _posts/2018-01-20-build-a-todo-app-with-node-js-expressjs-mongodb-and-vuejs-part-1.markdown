@@ -11,6 +11,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif"
 ---
 
 ![Hint: This is what the final result would look like.](https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif)

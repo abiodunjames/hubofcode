@@ -9,6 +9,7 @@ tags:
 - API products
 author: samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/c_scale,w_200/v1615721592/ApI.png"
 ---
 
 ![API Products](https://res.cloudinary.com/samueljames/image/upload/c_scale,w_200/v1615721592/ApI.png)

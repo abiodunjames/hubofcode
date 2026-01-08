@@ -9,11 +9,10 @@ tags:
 - product
 - snipcart
 - ecommerce
-canonical_url: canonical_url
-Field name: https://medium.com/swlh/what-we-learned-from-building-a-serverless-e-commerce-website-on-aws-to-combat-covid-19-2b66155f9b08
+canonical_url: https://medium.com/swlh/what-we-learned-from-building-a-serverless-e-commerce-website-on-aws-to-combat-covid-19-2b66155f9b08
 comment: true
 author: samuel
-Key: 
+image: "https://miro.medium.com/max/1962/0*WcEW2tF0Rf7k21Kr"
 ---
 
 

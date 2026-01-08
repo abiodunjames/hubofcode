@@ -12,6 +12,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1570512883/Key-services-3-1024x591.png"
 ---
 
 Cloud computing is constantly evolving, from bare-metal to container technologies. The latest trend in this process is the serverless (Function as a Service, or FaaS) computing model. According to [Techbeacon](https://techbeacon.com/enterprise-it/state-serverless-6-trends-watch), serverless has an annual growth rate of 75%, making it the fastest growing cloud service model. So, serverless architecture isn't a mere buzzword. More companies than ever are adopting it.

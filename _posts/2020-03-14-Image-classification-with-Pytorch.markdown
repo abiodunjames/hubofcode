@@ -15,6 +15,7 @@ comments: true
 description: In this post, you'll learn how to train an image classifier using transferred
   learning with Pytorch on Google Colab. We'll use a dataset provided by [CalTech]
 canonical_url: https://dev.to/abiodunjames/building-an-image-classifier-using-pytorch-46dk
+image: "https://res.cloudinary.com/samueljames/image/upload/v1584088420/template.png"
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1584088420/template.png)

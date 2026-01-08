@@ -10,6 +10,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1524270397/observer-pattern_beqcbs.jpg"
 ---
 
 ![Observer Pattern](https://res.cloudinary.com/samueljames/image/upload/v1524270397/observer-pattern_beqcbs.jpg)

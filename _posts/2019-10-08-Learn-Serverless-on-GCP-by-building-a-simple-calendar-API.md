@@ -11,6 +11,7 @@ tags:
 layout: post
 author: Samuel
 comments: true
+image: "https://res.cloudinary.com/samueljames/image/upload/v1576836292/1_wkyCRY8pMNSnbh2Hm_Lf9A.png"
 ---
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1576836292/1_wkyCRY8pMNSnbh2Hm_Lf9A.png)

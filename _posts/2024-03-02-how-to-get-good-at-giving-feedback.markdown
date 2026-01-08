@@ -14,7 +14,7 @@ last_modified_at: 2024-03-02 00:00:00 Z
 description: Master the art of giving effective feedback as a tech lead or engineering
   manager. Learn the four-step feedback framework, debunk common myths, and build
   a culture of trust for high-performing teams.
-image: "/images/logo.png"
+image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78e9058f-62bb-4180-bdd4-15ed3345bbf1_2090x443.png"
 author: Samuel James
 ---
 

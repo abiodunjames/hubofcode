@@ -10,7 +10,7 @@ tags:
 - google-drive
 - icloud
 author: Samuel James
-image: "/images/logo.png"
+image: "/uploads/Screenshot%202025-12-31%20at%2021.39.37.png"
 last_modified_at: 2025-12-31 00:00:00 Z
 description: Learn how to build a robust document sync engine for mobile apps with
   Google Drive and iCloud integration. Covers delta sync, conflict resolution, offline-first
