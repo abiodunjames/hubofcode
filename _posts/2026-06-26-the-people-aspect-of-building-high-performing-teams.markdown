@@ -1,11 +1,8 @@
 ---
 title: The people aspect of building high-performing teams
 date: 2026-06-26 18:58:00 Z
+image: "/uploads/image.jpg"
 ---
-
-[](https://substackcdn.com/image/fetch/$s_!m6jB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d7c2fbc-d5d9-4625-845c-a46aafc3a587_1247x495.png)
-
-![](https://substackcdn.com/image/fetch/$s_!m6jB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d7c2fbc-d5d9-4625-845c-a46aafc3a587_1247x495.png)
 
 Over the last 10+ years, I’ve had the chance to work across continents and lead engineering teams spread across multiple countries, each with its own culture, labor laws, and work norms.
 
