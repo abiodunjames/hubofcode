@@ -4,11 +4,9 @@ date: 2026-06-25 20:09:00 Z
 categories:
 - EngineeringManagement
 - leadership
+image: "/uploads/image%20(1).jpg"
 ---
 
-[](https://substackcdn.com/image/fetch/$s_!po8I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F776fae81-7765-4235-8fc6-9623af6b9b3d_684x575.png)
-
-![](https://substackcdn.com/image/fetch/$s_!po8I!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F776fae81-7765-4235-8fc6-9623af6b9b3d_684x575.png)
 
 If you ask a room full of people whether they would rather be a leader or a manager, you’ve already biased the results. If I was in that room, I would probably raise my hand for leader too.
 
