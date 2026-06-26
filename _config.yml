@@ -30,7 +30,7 @@ description: My personal blog on making software.
 author: "@samueljabiodun"
 email: james@hubofco.de
 url: https://hubofco.de
-baseurl: ''
+baseurl: 
 enforce_ssl: https://hubofco.de
 permalink: pretty
 lang: en-US
